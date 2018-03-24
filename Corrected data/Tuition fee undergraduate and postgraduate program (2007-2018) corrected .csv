@@ -1,0 +1,265 @@
+"","Ref_Date","GEO","STUDYLEVEL","averageTuitionFee"
+"1","2006/2007","Canada","Canadian undergraduate",5008
+"2","2006/2007","Canada","Canadian graduate",5999
+"3","2006/2007","Newfoundland and Labrador","Canadian undergraduate",3109
+"4","2006/2007","Newfoundland and Labrador","Canadian graduate",2572
+"5","2006/2007","Prince Edward Island","Canadian undergraduate",5648
+"6","2006/2007","Prince Edward Island","Canadian graduate",3421
+"7","2006/2007","Nova Scotia","Canadian undergraduate",7111
+"8","2006/2007","Nova Scotia","Canadian graduate",8054
+"9","2006/2007","New Brunswick","Canadian undergraduate",5796
+"10","2006/2007","New Brunswick","Canadian graduate",5331
+"11","2006/2007","Quebec","Canadian undergraduate",2506
+"12","2006/2007","Quebec","Canadian graduate",2674
+"13","2006/2007","Ontario","Canadian undergraduate",5835
+"14","2006/2007","Ontario","Canadian graduate",9167
+"15","2006/2007","Manitoba","Canadian undergraduate",3801
+"16","2006/2007","Manitoba","Canadian graduate",5094
+"17","2006/2007","Saskatchewan","Canadian undergraduate",5228
+"18","2006/2007","Saskatchewan","Canadian graduate",3304
+"19","2006/2007","Alberta","Canadian undergraduate",5338
+"20","2006/2007","Alberta","Canadian graduate",6091
+"21","2006/2007","British Columbia","Canadian undergraduate",5235
+"22","2006/2007","British Columbia","Canadian graduate",6087
+"23","2007/2008","Canada","Canadian undergraduate",5231
+"24","2007/2008","Canada","Canadian graduate",6303
+"25","2007/2008","Newfoundland and Labrador","Canadian undergraduate",3102
+"26","2007/2008","Newfoundland and Labrador","Canadian graduate",4633
+"27","2007/2008","Prince Edward Island","Canadian undergraduate",5177
+"28","2007/2008","Prince Edward Island","Canadian graduate",3612
+"29","2007/2008","Nova Scotia","Canadian undergraduate",6969
+"30","2007/2008","Nova Scotia","Canadian graduate",8175
+"31","2007/2008","New Brunswick","Canadian undergraduate",6010
+"32","2007/2008","New Brunswick","Canadian graduate",5555
+"33","2007/2008","Quebec","Canadian undergraduate",2675
+"34","2007/2008","Quebec","Canadian graduate",3023
+"35","2007/2008","Ontario","Canadian undergraduate",6119
+"36","2007/2008","Ontario","Canadian graduate",9251
+"37","2007/2008","Manitoba","Canadian undergraduate",3792
+"38","2007/2008","Manitoba","Canadian graduate",5131
+"39","2007/2008","Saskatchewan","Canadian undergraduate",5612
+"40","2007/2008","Saskatchewan","Canadian graduate",4054
+"41","2007/2008","Alberta","Canadian undergraduate",5763
+"42","2007/2008","Alberta","Canadian graduate",7064
+"43","2007/2008","British Columbia","Canadian undergraduate",5537
+"44","2007/2008","British Columbia","Canadian graduate",7066
+"45","2008/2009","Canada","Canadian undergraduate",5448
+"46","2008/2009","Canada","Canadian graduate",6483
+"47","2008/2009","Newfoundland and Labrador","Canadian undergraduate",3111
+"48","2008/2009","Newfoundland and Labrador","Canadian graduate",3420
+"49","2008/2009","Prince Edward Island","Canadian undergraduate",5305
+"50","2008/2009","Prince Edward Island","Canadian graduate",3440
+"51","2008/2009","Nova Scotia","Canadian undergraduate",6658
+"52","2008/2009","Nova Scotia","Canadian graduate",8583
+"53","2008/2009","New Brunswick","Canadian undergraduate",5908
+"54","2008/2009","New Brunswick","Canadian graduate",5581
+"55","2008/2009","Quebec","Canadian undergraduate",2782
+"56","2008/2009","Quebec","Canadian graduate",2936
+"57","2008/2009","Ontario","Canadian undergraduate",6452
+"58","2008/2009","Ontario","Canadian graduate",9032
+"59","2008/2009","Manitoba","Canadian undergraduate",3833
+"60","2008/2009","Manitoba","Canadian graduate",4334
+"61","2008/2009","Saskatchewan","Canadian undergraduate",5663
+"62","2008/2009","Saskatchewan","Canadian graduate",3306
+"63","2008/2009","Alberta","Canadian undergraduate",6021
+"64","2008/2009","Alberta","Canadian graduate",5894
+"65","2008/2009","British Columbia","Canadian undergraduate",5409
+"66","2008/2009","British Columbia","Canadian graduate",7882
+"67","2009/2010","Canada","Canadian undergraduate",5598
+"68","2009/2010","Canada","Canadian graduate",5488
+"69","2009/2010","Newfoundland and Labrador","Canadian undergraduate",2829
+"70","2009/2010","Newfoundland and Labrador","Canadian graduate",2689
+"71","2009/2010","Prince Edward Island","Canadian undergraduate",5459
+"72","2009/2010","Prince Edward Island","Canadian graduate",4581
+"73","2009/2010","Nova Scotia","Canadian undergraduate",6352
+"74","2009/2010","Nova Scotia","Canadian graduate",8388
+"75","2009/2010","New Brunswick","Canadian undergraduate",5917
+"76","2009/2010","New Brunswick","Canadian graduate",5932
+"77","2009/2010","Quebec","Canadian undergraduate",2924
+"78","2009/2010","Quebec","Canadian graduate",2997
+"79","2009/2010","Ontario","Canadian undergraduate",6742
+"80","2009/2010","Ontario","Canadian graduate",6969
+"81","2009/2010","Manitoba","Canadian undergraduate",3831
+"82","2009/2010","Manitoba","Canadian graduate",4353
+"83","2009/2010","Saskatchewan","Canadian undergraduate",5596
+"84","2009/2010","Saskatchewan","Canadian graduate",3353
+"85","2009/2010","Alberta","Canadian undergraduate",5875
+"86","2009/2010","Alberta","Canadian graduate",5276
+"87","2009/2010","British Columbia","Canadian undergraduate",5224
+"88","2009/2010","British Columbia","Canadian graduate",6804
+"89","2010/2011","Canada","Canadian undergraduate",5923
+"90","2010/2011","Canada","Canadian graduate",6105
+"91","2010/2011","Newfoundland and Labrador","Canadian undergraduate",2856
+"92","2010/2011","Newfoundland and Labrador","Canadian graduate",2681
+"93","2010/2011","Prince Edward Island","Canadian undergraduate",5631
+"94","2010/2011","Prince Edward Island","Canadian graduate",4413
+"95","2010/2011","Nova Scotia","Canadian undergraduate",6168
+"96","2010/2011","Nova Scotia","Canadian graduate",7998
+"97","2010/2011","New Brunswick","Canadian undergraduate",6001
+"98","2010/2011","New Brunswick","Canadian graduate",5438
+"99","2010/2011","Quebec","Canadian undergraduate",3107
+"100","2010/2011","Quebec","Canadian graduate",3107
+"101","2010/2011","Ontario","Canadian undergraduate",7158
+"102","2010/2011","Ontario","Canadian graduate",7999
+"103","2010/2011","Manitoba","Canadian undergraduate",4009
+"104","2010/2011","Manitoba","Canadian graduate",4564
+"105","2010/2011","Saskatchewan","Canadian undergraduate",5998
+"106","2010/2011","Saskatchewan","Canadian graduate",3968
+"107","2010/2011","Alberta","Canadian undergraduate",6832
+"108","2010/2011","Alberta","Canadian graduate",5702
+"109","2010/2011","British Columbia","Canadian undergraduate",5361
+"110","2010/2011","British Columbia","Canadian graduate",7906
+"111","2011/2012","Canada","Canadian undergraduate",6039
+"112","2011/2012","Canada","Canadian graduate",6164
+"113","2011/2012","Newfoundland and Labrador","Canadian undergraduate",2861
+"114","2011/2012","Newfoundland and Labrador","Canadian graduate",2693
+"115","2011/2012","Prince Edward Island","Canadian undergraduate",5784
+"116","2011/2012","Prince Edward Island","Canadian graduate",4518
+"117","2011/2012","Nova Scotia","Canadian undergraduate",6345
+"118","2011/2012","Nova Scotia","Canadian graduate",8033
+"119","2011/2012","New Brunswick","Canadian undergraduate",6182
+"120","2011/2012","New Brunswick","Canadian graduate",5733
+"121","2011/2012","Quebec","Canadian undergraduate",3238
+"122","2011/2012","Quebec","Canadian graduate",3359
+"123","2011/2012","Ontario","Canadian undergraduate",7667
+"124","2011/2012","Ontario","Canadian graduate",8483
+"125","2011/2012","Manitoba","Canadian undergraduate",4061
+"126","2011/2012","Manitoba","Canadian graduate",4607
+"127","2011/2012","Saskatchewan","Canadian undergraduate",6134
+"128","2011/2012","Saskatchewan","Canadian graduate",3674
+"129","2011/2012","Alberta","Canadian undergraduate",6543
+"130","2011/2012","Alberta","Canadian graduate",5812
+"131","2011/2012","British Columbia","Canadian undergraduate",5483
+"132","2011/2012","British Columbia","Canadian graduate",8077
+"133","2012/2013","Canada","Canadian undergraduate",6362
+"134","2012/2013","Canada","Canadian graduate",6671
+"135","2012/2013","Newfoundland and Labrador","Canadian undergraduate",2862
+"136","2012/2013","Newfoundland and Labrador","Canadian graduate",2715
+"137","2012/2013","Prince Edward Island","Canadian undergraduate",6037
+"138","2012/2013","Prince Edward Island","Canadian graduate",5302
+"139","2012/2013","Nova Scotia","Canadian undergraduate",6622
+"140","2012/2013","Nova Scotia","Canadian graduate",8344
+"141","2012/2013","New Brunswick","Canadian undergraduate",6374
+"142","2012/2013","New Brunswick","Canadian graduate",5923
+"143","2012/2013","Quebec","Canadian undergraduate",3307
+"144","2012/2013","Quebec","Canadian graduate",3389
+"145","2012/2013","Ontario","Canadian undergraduate",7858
+"146","2012/2013","Ontario","Canadian graduate",9097
+"147","2012/2013","Manitoba","Canadian undergraduate",4206
+"148","2012/2013","Manitoba","Canadian graduate",4738
+"149","2012/2013","Saskatchewan","Canadian undergraduate",6578
+"150","2012/2013","Saskatchewan","Canadian graduate",4571
+"151","2012/2013","Alberta","Canadian undergraduate",6589
+"152","2012/2013","Alberta","Canadian graduate",5973
+"153","2012/2013","British Columbia","Canadian undergraduate",5512
+"154","2012/2013","British Columbia","Canadian graduate",7970
+"155","2013/2014","Canada","Canadian undergraduate",6566
+"156","2013/2014","Canada","Canadian graduate",6824
+"157","2013/2014","Newfoundland and Labrador","Canadian undergraduate",2853
+"158","2013/2014","Newfoundland and Labrador","Canadian graduate",2782
+"159","2013/2014","Prince Edward Island","Canadian undergraduate",6300
+"160","2013/2014","Prince Edward Island","Canadian graduate",5432
+"161","2013/2014","Nova Scotia","Canadian undergraduate",6889
+"162","2013/2014","Nova Scotia","Canadian graduate",8688
+"163","2013/2014","New Brunswick","Canadian undergraduate",6572
+"164","2013/2014","New Brunswick","Canadian graduate",6105
+"165","2013/2014","Quebec","Canadian undergraduate",3428
+"166","2013/2014","Quebec","Canadian graduate",3449
+"167","2013/2014","Ontario","Canadian undergraduate",8130
+"168","2013/2014","Ontario","Canadian graduate",9287
+"169","2013/2014","Manitoba","Canadian undergraduate",4346
+"170","2013/2014","Manitoba","Canadian graduate",4805
+"171","2013/2014","Saskatchewan","Canadian undergraduate",6746
+"172","2013/2014","Saskatchewan","Canadian graduate",3867
+"173","2013/2014","Alberta","Canadian undergraduate",6690
+"174","2013/2014","Alberta","Canadian graduate",6220
+"175","2013/2014","British Columbia","Canadian undergraduate",5734
+"176","2013/2014","British Columbia","Canadian graduate",8319
+"177","2014/2015","Canada","Canadian undergraduate",6813
+"178","2014/2015","Canada","Canadian graduate",7076
+"179","2014/2015","Newfoundland and Labrador","Canadian undergraduate",2886
+"180","2014/2015","Newfoundland and Labrador","Canadian graduate",2753
+"181","2014/2015","Prince Edward Island","Canadian undergraduate",6473
+"182","2014/2015","Prince Edward Island","Canadian graduate",5469
+"183","2014/2015","Nova Scotia","Canadian undergraduate",7213
+"184","2014/2015","Nova Scotia","Canadian graduate",8872
+"185","2014/2015","New Brunswick","Canadian undergraduate",6794
+"186","2014/2015","New Brunswick","Canadian graduate",6272
+"187","2014/2015","Quebec","Canadian undergraduate",3518
+"188","2014/2015","Quebec","Canadian graduate",3529
+"189","2014/2015","Ontario","Canadian undergraduate",8439
+"190","2014/2015","Ontario","Canadian graduate",9584
+"191","2014/2015","Manitoba","Canadian undergraduate",4518
+"192","2014/2015","Manitoba","Canadian graduate",5071
+"193","2014/2015","Saskatchewan","Canadian undergraduate",7087
+"194","2014/2015","Saskatchewan","Canadian graduate",4021
+"195","2014/2015","Alberta","Canadian undergraduate",6806
+"196","2014/2015","Alberta","Canadian graduate",7041
+"197","2014/2015","British Columbia","Canadian undergraduate",5850
+"198","2014/2015","British Columbia","Canadian graduate",8282
+"199","2015/2016","Canada","Canadian undergraduate",7049
+"200","2015/2016","Canada","Canadian graduate",7338
+"201","2015/2016","Newfoundland and Labrador","Canadian undergraduate",2988
+"202","2015/2016","Newfoundland and Labrador","Canadian graduate",2759
+"203","2015/2016","Prince Edward Island","Canadian undergraduate",6756
+"204","2015/2016","Prince Edward Island","Canadian graduate",5513
+"205","2015/2016","Nova Scotia","Canadian undergraduate",7618
+"206","2015/2016","Nova Scotia","Canadian graduate",9165
+"207","2015/2016","New Brunswick","Canadian undergraduate",6910
+"208","2015/2016","New Brunswick","Canadian graduate",6248
+"209","2015/2016","Quebec","Canadian undergraduate",3620
+"210","2015/2016","Quebec","Canadian graduate",3596
+"211","2015/2016","Ontario","Canadian undergraduate",8768
+"212","2015/2016","Ontario","Canadian graduate",10017
+"213","2015/2016","Manitoba","Canadian undergraduate",4686
+"214","2015/2016","Manitoba","Canadian graduate",5199
+"215","2015/2016","Saskatchewan","Canadian undergraduate",7385
+"216","2015/2016","Saskatchewan","Canadian graduate",4077
+"217","2015/2016","Alberta","Canadian undergraduate",6881
+"218","2015/2016","Alberta","Canadian graduate",6860
+"219","2015/2016","British Columbia","Canadian undergraduate",6041
+"220","2015/2016","British Columbia","Canadian graduate",8924
+"221","2016/2017","Canada","Canadian undergraduate",7223
+"222","2016/2017","Canada","Canadian graduate",7588
+"223","2016/2017","Newfoundland and Labrador","Canadian undergraduate",2982
+"224","2016/2017","Newfoundland and Labrador","Canadian graduate",3037
+"225","2016/2017","Prince Edward Island","Canadian undergraduate",6955
+"226","2016/2017","Prince Edward Island","Canadian graduate",5767
+"227","2016/2017","Nova Scotia","Canadian undergraduate",8127
+"228","2016/2017","Nova Scotia","Canadian graduate",9357
+"229","2016/2017","New Brunswick","Canadian undergraduate",7260
+"230","2016/2017","New Brunswick","Canadian graduate",6468
+"231","2016/2017","Quebec","Canadian undergraduate",3637
+"232","2016/2017","Quebec","Canadian graduate",3641
+"233","2016/2017","Ontario","Canadian undergraduate",9062
+"234","2016/2017","Ontario","Canadian graduate",10598
+"235","2016/2017","Manitoba","Canadian undergraduate",4809
+"236","2016/2017","Manitoba","Canadian graduate",5264
+"237","2016/2017","Saskatchewan","Canadian undergraduate",7461
+"238","2016/2017","Saskatchewan","Canadian graduate",4159
+"239","2016/2017","Alberta","Canadian undergraduate",6817
+"240","2016/2017","Alberta","Canadian graduate",6734
+"241","2016/2017","British Columbia","Canadian undergraduate",6228
+"242","2016/2017","British Columbia","Canadian graduate",8936
+"243","2017/2018","Canada","Canadian undergraduate",7451
+"244","2017/2018","Canada","Canadian graduate",7745
+"245","2017/2018","Newfoundland and Labrador","Canadian undergraduate",3652
+"246","2017/2018","Newfoundland and Labrador","Canadian graduate",3693
+"247","2017/2018","Prince Edward Island","Canadian undergraduate",7145
+"248","2017/2018","Prince Edward Island","Canadian graduate",5907
+"249","2017/2018","Nova Scotia","Canadian undergraduate",8554
+"250","2017/2018","Nova Scotia","Canadian graduate",9622
+"251","2017/2018","New Brunswick","Canadian undergraduate",7460
+"252","2017/2018","New Brunswick","Canadian graduate",6594
+"253","2017/2018","Quebec","Canadian undergraduate",3736
+"254","2017/2018","Quebec","Canadian graduate",3745
+"255","2017/2018","Ontario","Canadian undergraduate",9389
+"256","2017/2018","Ontario","Canadian graduate",10831
+"257","2017/2018","Manitoba","Canadian undergraduate",4885
+"258","2017/2018","Manitoba","Canadian graduate",5332
+"259","2017/2018","Saskatchewan","Canadian undergraduate",7618
+"260","2017/2018","Saskatchewan","Canadian graduate",4258
+"261","2017/2018","Alberta","Canadian undergraduate",6840
+"262","2017/2018","Alberta","Canadian graduate",6750
+"263","2017/2018","British Columbia","Canadian undergraduate",6363
+"264","2017/2018","British Columbia","Canadian graduate",9014
