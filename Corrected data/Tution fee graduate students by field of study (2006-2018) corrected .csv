@@ -1,0 +1,1915 @@
+"","Ref_Date","GEO","STUDYFIELD","averageTuitionFee"
+"1","2006/2007","Canada","Education",4627
+"2","2007/2008","Canada","Education",4353
+"3","2008/2009","Canada","Education",4697
+"4","2009/2010","Canada","Education",4410
+"5","2010/2011","Canada","Education",4981
+"6","2011/2012","Canada","Education",5089
+"7","2012/2013","Canada","Education",5462
+"8","2013/2014","Canada","Education",5536
+"9","2014/2015","Canada","Education",5674
+"10","2015/2016","Canada","Education",5697
+"11","2016/2017","Canada","Education",5866
+"12","2017/2018","Canada","Education",5992
+"13","2006/2007","Canada","Visual and performing arts, and communications technologies",3679
+"14","2007/2008","Canada","Visual and performing arts, and communications technologies",3759
+"15","2008/2009","Canada","Visual and performing arts, and communications technologies",4255
+"16","2009/2010","Canada","Visual and performing arts, and communications technologies",4562
+"17","2010/2011","Canada","Visual and performing arts, and communications technologies",4834
+"18","2011/2012","Canada","Visual and performing arts, and communications technologies",4409
+"19","2012/2013","Canada","Visual and performing arts, and communications technologies",4890
+"20","2013/2014","Canada","Visual and performing arts, and communications technologies",4700
+"21","2014/2015","Canada","Visual and performing arts, and communications technologies",4818
+"22","2015/2016","Canada","Visual and performing arts, and communications technologies",5202
+"23","2016/2017","Canada","Visual and performing arts, and communications technologies",5069
+"24","2017/2018","Canada","Visual and performing arts, and communications technologies",5162
+"25","2006/2007","Canada","Humanities",3531
+"26","2007/2008","Canada","Humanities",3460
+"27","2008/2009","Canada","Humanities",3767
+"28","2009/2010","Canada","Humanities",3979
+"29","2010/2011","Canada","Humanities",4239
+"30","2011/2012","Canada","Humanities",4336
+"31","2012/2013","Canada","Humanities",4522
+"32","2013/2014","Canada","Humanities",4525
+"33","2014/2015","Canada","Humanities",4624
+"34","2015/2016","Canada","Humanities",4619
+"35","2016/2017","Canada","Humanities",4674
+"36","2017/2018","Canada","Humanities",4734
+"37","2006/2007","Canada","Social and behavioural sciences, and legal studies",3579
+"38","2007/2008","Canada","Social and behavioural sciences, and legal studies",3709
+"39","2008/2009","Canada","Social and behavioural sciences, and legal studies",3990
+"40","2009/2010","Canada","Social and behavioural sciences, and legal studies",4109
+"41","2010/2011","Canada","Social and behavioural sciences, and legal studies",4605
+"42","2011/2012","Canada","Social and behavioural sciences, and legal studies",4556
+"43","2012/2013","Canada","Social and behavioural sciences, and legal studies",5020
+"44","2013/2014","Canada","Social and behavioural sciences, and legal studies",5103
+"45","2014/2015","Canada","Social and behavioural sciences, and legal studies",5325
+"46","2015/2016","Canada","Social and behavioural sciences, and legal studies",5460
+"47","2016/2017","Canada","Social and behavioural sciences, and legal studies",5829
+"48","2017/2018","Canada","Social and behavioural sciences, and legal studies",5932
+"49","2006/2007","Canada","Law",3272
+"50","2007/2008","Canada","Law",3813
+"51","2008/2009","Canada","Law",3773
+"52","2009/2010","Canada","Law",4477
+"53","2010/2011","Canada","Law",4487
+"54","2011/2012","Canada","Law",5302
+"55","2012/2013","Canada","Law",5373
+"56","2013/2014","Canada","Law",5834
+"57","2014/2015","Canada","Law",5758
+"58","2015/2016","Canada","Law",6148
+"59","2016/2017","Canada","Law",5757
+"60","2017/2018","Canada","Law",5874
+"61","2006/2007","Canada","Business, management and public administration",14879
+"62","2007/2008","Canada","Business, management and public administration",5225
+"63","2008/2009","Canada","Business, management and public administration",5760
+"64","2009/2010","Canada","Business, management and public administration",6175
+"65","2010/2011","Canada","Business, management and public administration",8132
+"66","2011/2012","Canada","Business, management and public administration",7932
+"67","2012/2013","Canada","Business, management and public administration",8547
+"68","2013/2014","Canada","Business, management and public administration",8987
+"69","2014/2015","Canada","Business, management and public administration",10378
+"70","2015/2016","Canada","Business, management and public administration",10703
+"71","2016/2017","Canada","Business, management and public administration",11140
+"72","2017/2018","Canada","Business, management and public administration",11220
+"73","2007/2008","Canada","Executive MBA",22142
+"74","2008/2009","Canada","Executive MBA",29893
+"75","2009/2010","Canada","Executive MBA",27963
+"76","2010/2011","Canada","Executive MBA",37032
+"77","2011/2012","Canada","Executive MBA",36971
+"78","2012/2013","Canada","Executive MBA",35448
+"79","2013/2014","Canada","Executive MBA",38750
+"80","2014/2015","Canada","Executive MBA",39413
+"81","2015/2016","Canada","Executive MBA",47394
+"82","2016/2017","Canada","Executive MBA",50830
+"83","2017/2018","Canada","Executive MBA",51891
+"84","2007/2008","Canada","Regular MBA",14545
+"85","2008/2009","Canada","Regular MBA",19376
+"86","2009/2010","Canada","Regular MBA",19727
+"87","2010/2011","Canada","Regular MBA",20336
+"88","2011/2012","Canada","Regular MBA",22823
+"89","2012/2013","Canada","Regular MBA",23049
+"90","2013/2014","Canada","Regular MBA",26201
+"91","2014/2015","Canada","Regular MBA",26989
+"92","2015/2016","Canada","Regular MBA",26532
+"93","2016/2017","Canada","Regular MBA",28532
+"94","2017/2018","Canada","Regular MBA",29293
+"95","2006/2007","Canada","Physical and life sciences and technologies",4103
+"96","2007/2008","Canada","Physical and life sciences and technologies",4067
+"97","2008/2009","Canada","Physical and life sciences and technologies",4437
+"98","2009/2010","Canada","Physical and life sciences and technologies",5239
+"99","2010/2011","Canada","Physical and life sciences and technologies",5477
+"100","2011/2012","Canada","Physical and life sciences and technologies",5632
+"101","2012/2013","Canada","Physical and life sciences and technologies",5913
+"102","2013/2014","Canada","Physical and life sciences and technologies",6024
+"103","2014/2015","Canada","Physical and life sciences and technologies",6100
+"104","2015/2016","Canada","Physical and life sciences and technologies",6350
+"105","2016/2017","Canada","Physical and life sciences and technologies",6455
+"106","2017/2018","Canada","Physical and life sciences and technologies",6586
+"107","2006/2007","Canada","Mathematics, computer and information sciences",4129
+"108","2007/2008","Canada","Mathematics, computer and information sciences",4042
+"109","2008/2009","Canada","Mathematics, computer and information sciences",4277
+"110","2009/2010","Canada","Mathematics, computer and information sciences",5488
+"111","2010/2011","Canada","Mathematics, computer and information sciences",5735
+"112","2011/2012","Canada","Mathematics, computer and information sciences",5716
+"113","2012/2013","Canada","Mathematics, computer and information sciences",5790
+"114","2013/2014","Canada","Mathematics, computer and information sciences",6001
+"115","2014/2015","Canada","Mathematics, computer and information sciences",6039
+"116","2015/2016","Canada","Mathematics, computer and information sciences",6123
+"117","2016/2017","Canada","Mathematics, computer and information sciences",7727
+"118","2017/2018","Canada","Mathematics, computer and information sciences",7906
+"119","2006/2007","Canada","Engineering",4221
+"120","2007/2008","Canada","Engineering",4287
+"121","2008/2009","Canada","Engineering",4593
+"122","2009/2010","Canada","Engineering",5312
+"123","2010/2011","Canada","Engineering",5522
+"124","2011/2012","Canada","Engineering",5175
+"125","2012/2013","Canada","Engineering",6040
+"126","2013/2014","Canada","Engineering",6168
+"127","2014/2015","Canada","Engineering",6388
+"128","2015/2016","Canada","Engineering",6777
+"129","2016/2017","Canada","Engineering",7077
+"130","2017/2018","Canada","Engineering",7226
+"131","2006/2007","Canada","Architecture and related technologies",4153
+"132","2007/2008","Canada","Architecture and related technologies",4068
+"133","2008/2009","Canada","Architecture and related technologies",4293
+"134","2009/2010","Canada","Architecture and related technologies",4672
+"135","2010/2011","Canada","Architecture and related technologies",4834
+"136","2011/2012","Canada","Architecture and related technologies",4950
+"137","2012/2013","Canada","Architecture and related technologies",5290
+"138","2013/2014","Canada","Architecture and related technologies",5483
+"139","2014/2015","Canada","Architecture and related technologies",5704
+"140","2015/2016","Canada","Architecture and related technologies",5807
+"141","2016/2017","Canada","Architecture and related technologies",6117
+"142","2017/2018","Canada","Architecture and related technologies",6270
+"143","2006/2007","Canada","Agriculture, natural resources and conservation",2830
+"144","2007/2008","Canada","Agriculture, natural resources and conservation",3873
+"145","2008/2009","Canada","Agriculture, natural resources and conservation",3921
+"146","2009/2010","Canada","Agriculture, natural resources and conservation",4636
+"147","2010/2011","Canada","Agriculture, natural resources and conservation",4821
+"148","2011/2012","Canada","Agriculture, natural resources and conservation",4769
+"149","2012/2013","Canada","Agriculture, natural resources and conservation",5136
+"150","2013/2014","Canada","Agriculture, natural resources and conservation",5236
+"151","2014/2015","Canada","Agriculture, natural resources and conservation",5431
+"152","2015/2016","Canada","Agriculture, natural resources and conservation",5377
+"153","2016/2017","Canada","Agriculture, natural resources and conservation",5429
+"154","2017/2018","Canada","Agriculture, natural resources and conservation",5542
+"155","2007/2008","Canada","Dentistry",7187
+"156","2008/2009","Canada","Dentistry",3171
+"157","2009/2010","Canada","Dentistry",3218
+"158","2010/2011","Canada","Dentistry",4337
+"159","2011/2012","Canada","Dentistry",4365
+"160","2012/2013","Canada","Dentistry",10753
+"161","2013/2014","Canada","Dentistry",11631
+"162","2014/2015","Canada","Dentistry",12135
+"163","2015/2016","Canada","Dentistry",12276
+"164","2016/2017","Canada","Dentistry",12239
+"165","2017/2018","Canada","Dentistry",12652
+"166","2006/2007","Canada","Medicine",6976
+"167","2007/2008","Canada","Medicine",5811
+"178","2007/2008","Canada","Nursing",4286
+"179","2008/2009","Canada","Nursing",4892
+"180","2009/2010","Canada","Nursing",4925
+"181","2010/2011","Canada","Nursing",5090
+"182","2011/2012","Canada","Nursing",5117
+"183","2012/2013","Canada","Nursing",5746
+"184","2013/2014","Canada","Nursing",5844
+"185","2014/2015","Canada","Nursing",6076
+"186","2015/2016","Canada","Nursing",7321
+"187","2016/2017","Canada","Nursing",7622
+"188","2017/2018","Canada","Nursing",7709
+"189","2007/2008","Canada","Pharmacy",1909
+"190","2008/2009","Canada","Pharmacy",6195
+"191","2009/2010","Canada","Pharmacy",5247
+"192","2010/2011","Canada","Pharmacy",5411
+"193","2011/2012","Canada","Pharmacy",5466
+"194","2012/2013","Canada","Pharmacy",5199
+"195","2013/2014","Canada","Pharmacy",6456
+"196","2014/2015","Canada","Pharmacy",6248
+"197","2015/2016","Canada","Pharmacy",6044
+"198","2016/2017","Canada","Pharmacy",5922
+"199","2017/2018","Canada","Pharmacy",4022
+"200","2007/2008","Canada","Veterinary medicine",2774
+"201","2008/2009","Canada","Veterinary medicine",3304
+"202","2009/2010","Canada","Veterinary medicine",3675
+"203","2010/2011","Canada","Veterinary medicine",3435
+"204","2011/2012","Canada","Veterinary medicine",3173
+"205","2012/2013","Canada","Veterinary medicine",3313
+"206","2013/2014","Canada","Veterinary medicine",3650
+"207","2014/2015","Canada","Veterinary medicine",3686
+"208","2015/2016","Canada","Veterinary medicine",3358
+"209","2016/2017","Canada","Veterinary medicine",3687
+"210","2017/2018","Canada","Veterinary medicine",3790
+"211","2006/2007","Canada","Other health, parks, recreation and fitness",4649
+"212","2007/2008","Canada","Other health, parks, recreation and fitness",4305
+"213","2008/2009","Canada","Other health, parks, recreation and fitness",5092
+"214","2009/2010","Canada","Other health, parks, recreation and fitness",5430
+"215","2010/2011","Canada","Other health, parks, recreation and fitness",7017
+"216","2011/2012","Canada","Other health, parks, recreation and fitness",7577
+"217","2012/2013","Canada","Other health, parks, recreation and fitness",7858
+"218","2013/2014","Canada","Other health, parks, recreation and fitness",7707
+"219","2014/2015","Canada","Other health, parks, recreation and fitness",7868
+"220","2015/2016","Canada","Other health, parks, recreation and fitness",8158
+"221","2016/2017","Canada","Other health, parks, recreation and fitness",8040
+"222","2017/2018","Canada","Other health, parks, recreation and fitness",8283
+"223","2016/2017","Canada","Personal, protective and transportation services",3987
+"224","2017/2018","Canada","Personal, protective and transportation services",7761
+"225","2006/2007","Newfoundland and Labrador","Education",2096
+"226","2007/2008","Newfoundland and Labrador","Education",2096
+"227","2008/2009","Newfoundland and Labrador","Education",2096
+"228","2009/2010","Newfoundland and Labrador","Education",2096
+"229","2010/2011","Newfoundland and Labrador","Education",2096
+"230","2011/2012","Newfoundland and Labrador","Education",2096
+"231","2012/2013","Newfoundland and Labrador","Education",2096
+"232","2013/2014","Newfoundland and Labrador","Education",2096
+"233","2014/2015","Newfoundland and Labrador","Education",2096
+"234","2015/2016","Newfoundland and Labrador","Education",2096
+"235","2016/2017","Newfoundland and Labrador","Education",2378
+"236","2017/2018","Newfoundland and Labrador","Education",2378
+"237","2006/2007","Newfoundland and Labrador","Humanities",2096
+"238","2007/2008","Newfoundland and Labrador","Humanities",2096
+"239","2008/2009","Newfoundland and Labrador","Humanities",2096
+"240","2009/2010","Newfoundland and Labrador","Humanities",2096
+"241","2010/2011","Newfoundland and Labrador","Humanities",2096
+"242","2011/2012","Newfoundland and Labrador","Humanities",2096
+"243","2012/2013","Newfoundland and Labrador","Humanities",2096
+"244","2013/2014","Newfoundland and Labrador","Humanities",2096
+"245","2014/2015","Newfoundland and Labrador","Humanities",2096
+"246","2015/2016","Newfoundland and Labrador","Humanities",2096
+"247","2016/2017","Newfoundland and Labrador","Humanities",2378
+"248","2017/2018","Newfoundland and Labrador","Humanities",2378
+"249","2006/2007","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"250","2007/2008","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"251","2008/2009","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"252","2009/2010","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"253","2010/2011","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"254","2011/2012","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"255","2012/2013","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"256","2013/2014","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"257","2014/2015","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"258","2015/2016","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2096
+"259","2016/2017","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2378
+"260","2017/2018","Newfoundland and Labrador","Social and behavioural sciences, and legal studies",2378
+"261","2006/2007","Newfoundland and Labrador","Business, management and public administration",2096
+"262","2007/2008","Newfoundland and Labrador","Business, management and public administration",2096
+"263","2008/2009","Newfoundland and Labrador","Business, management and public administration",2096
+"264","2009/2010","Newfoundland and Labrador","Business, management and public administration",2096
+"265","2010/2011","Newfoundland and Labrador","Business, management and public administration",2096
+"266","2011/2012","Newfoundland and Labrador","Business, management and public administration",2096
+"267","2012/2013","Newfoundland and Labrador","Business, management and public administration",2096
+"268","2013/2014","Newfoundland and Labrador","Business, management and public administration",2096
+"269","2014/2015","Newfoundland and Labrador","Business, management and public administration",2096
+"270","2015/2016","Newfoundland and Labrador","Business, management and public administration",2096
+"271","2016/2017","Newfoundland and Labrador","Business, management and public administration",2378
+"272","2017/2018","Newfoundland and Labrador","Business, management and public administration",2378
+"273","2007/2008","Newfoundland and Labrador","Executive MBA",21000
+"284","2007/2008","Newfoundland and Labrador","Regular MBA",1829
+"285","2008/2009","Newfoundland and Labrador","Regular MBA",1829
+"286","2009/2010","Newfoundland and Labrador","Regular MBA",1829
+"287","2010/2011","Newfoundland and Labrador","Regular MBA",1829
+"288","2011/2012","Newfoundland and Labrador","Regular MBA",1829
+"289","2012/2013","Newfoundland and Labrador","Regular MBA",1829
+"290","2013/2014","Newfoundland and Labrador","Regular MBA",1829
+"291","2014/2015","Newfoundland and Labrador","Regular MBA",1829
+"292","2015/2016","Newfoundland and Labrador","Regular MBA",1829
+"293","2016/2017","Newfoundland and Labrador","Regular MBA",2378
+"294","2017/2018","Newfoundland and Labrador","Regular MBA",2378
+"295","2006/2007","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"296","2007/2008","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"297","2008/2009","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"298","2009/2010","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"299","2010/2011","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"300","2011/2012","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"301","2012/2013","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"302","2013/2014","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"303","2014/2015","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"304","2015/2016","Newfoundland and Labrador","Physical and life sciences and technologies",2096
+"305","2016/2017","Newfoundland and Labrador","Physical and life sciences and technologies",2378
+"306","2017/2018","Newfoundland and Labrador","Physical and life sciences and technologies",2378
+"307","2006/2007","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"308","2007/2008","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"309","2008/2009","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"310","2009/2010","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"311","2010/2011","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"312","2011/2012","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"313","2012/2013","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"314","2013/2014","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"315","2014/2015","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"316","2015/2016","Newfoundland and Labrador","Mathematics, computer and information sciences",2096
+"317","2016/2017","Newfoundland and Labrador","Mathematics, computer and information sciences",2378
+"318","2017/2018","Newfoundland and Labrador","Mathematics, computer and information sciences",2378
+"319","2006/2007","Newfoundland and Labrador","Engineering",2096
+"320","2007/2008","Newfoundland and Labrador","Engineering",2096
+"321","2008/2009","Newfoundland and Labrador","Engineering",2096
+"322","2009/2010","Newfoundland and Labrador","Engineering",2096
+"323","2010/2011","Newfoundland and Labrador","Engineering",2096
+"324","2011/2012","Newfoundland and Labrador","Engineering",2096
+"325","2012/2013","Newfoundland and Labrador","Engineering",2096
+"326","2013/2014","Newfoundland and Labrador","Engineering",2096
+"327","2014/2015","Newfoundland and Labrador","Engineering",2096
+"328","2015/2016","Newfoundland and Labrador","Engineering",2096
+"329","2016/2017","Newfoundland and Labrador","Engineering",2378
+"330","2017/2018","Newfoundland and Labrador","Engineering",2378
+"331","2008/2009","Newfoundland and Labrador","Nursing",1829
+"332","2009/2010","Newfoundland and Labrador","Nursing",1829
+"333","2010/2011","Newfoundland and Labrador","Nursing",1829
+"334","2011/2012","Newfoundland and Labrador","Nursing",1829
+"335","2012/2013","Newfoundland and Labrador","Nursing",1829
+"336","2013/2014","Newfoundland and Labrador","Nursing",1829
+"337","2014/2015","Newfoundland and Labrador","Nursing",1829
+"338","2015/2016","Newfoundland and Labrador","Nursing",1829
+"339","2016/2017","Newfoundland and Labrador","Nursing",2378
+"340","2017/2018","Newfoundland and Labrador","Nursing",2378
+"341","2008/2009","Newfoundland and Labrador","Pharmacy",2096
+"342","2009/2010","Newfoundland and Labrador","Pharmacy",2733
+"343","2010/2011","Newfoundland and Labrador","Pharmacy",2096
+"344","2011/2012","Newfoundland and Labrador","Pharmacy",2096
+"346","2013/2014","Newfoundland and Labrador","Pharmacy",2096
+"347","2014/2015","Newfoundland and Labrador","Pharmacy",2096
+"348","2015/2016","Newfoundland and Labrador","Pharmacy",2096
+"349","2016/2017","Newfoundland and Labrador","Pharmacy",2378
+"350","2017/2018","Newfoundland and Labrador","Pharmacy",2378
+"351","2007/2008","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"352","2008/2009","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"353","2009/2010","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"354","2010/2011","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"355","2011/2012","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"356","2012/2013","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"357","2013/2014","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"358","2014/2015","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"359","2015/2016","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"360","2016/2017","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"361","2017/2018","Newfoundland and Labrador","Other health, parks, recreation and fitness",6000
+"362","2006/2007","Prince Edward Island","Education",2693
+"363","2007/2008","Prince Edward Island","Education",2423
+"364","2008/2009","Prince Edward Island","Education",2473
+"365","2009/2010","Prince Edward Island","Education",3876
+"366","2010/2011","Prince Edward Island","Education",3327
+"367","2011/2012","Prince Edward Island","Education",3427
+"368","2012/2013","Prince Edward Island","Education",5081
+"369","2013/2014","Prince Edward Island","Education",5286
+"370","2014/2015","Prince Edward Island","Education",5286
+"371","2015/2016","Prince Edward Island","Education",5445
+"372","2016/2017","Prince Edward Island","Education",5609
+"373","2017/2018","Prince Edward Island","Education",5726
+"374","2006/2007","Prince Edward Island","Humanities",2693
+"375","2007/2008","Prince Edward Island","Humanities",2423
+"376","2008/2009","Prince Edward Island","Humanities",2473
+"386","2016/2017","Prince Edward Island","Social and behavioural sciences, and legal studies",3933
+"387","2017/2018","Prince Edward Island","Social and behavioural sciences, and legal studies",4129
+"388","2012/2013","Prince Edward Island","Executive MBA",14442
+"389","2013/2014","Prince Edward Island","Executive MBA",15380
+"390","2014/2015","Prince Edward Island","Executive MBA",16320
+"391","2015/2016","Prince Edward Island","Executive MBA",16500
+"392","2016/2017","Prince Edward Island","Executive MBA",16500
+"393","2017/2018","Prince Edward Island","Executive MBA",16995
+"394","2009/2010","Prince Edward Island","Regular MBA",12100
+"395","2010/2011","Prince Edward Island","Regular MBA",12800
+"396","2011/2012","Prince Edward Island","Regular MBA",13900
+"403","2006/2007","Prince Edward Island","Physical and life sciences and technologies",2693
+"405","2008/2009","Prince Edward Island","Physical and life sciences and technologies",2473
+"406","2009/2010","Prince Edward Island","Physical and life sciences and technologies",3186
+"407","2010/2011","Prince Edward Island","Physical and life sciences and technologies",3327
+"408","2011/2012","Prince Edward Island","Physical and life sciences and technologies",3427
+"409","2012/2013","Prince Edward Island","Physical and life sciences and technologies",3564
+"410","2013/2014","Prince Edward Island","Physical and life sciences and technologies",3708
+"411","2014/2015","Prince Edward Island","Physical and life sciences and technologies",3708
+"412","2015/2016","Prince Edward Island","Physical and life sciences and technologies",3819
+"413","2016/2017","Prince Edward Island","Physical and life sciences and technologies",3933
+"414","2017/2018","Prince Edward Island","Physical and life sciences and technologies",4129
+"415","2013/2014","Prince Edward Island","Nursing",3708
+"416","2014/2015","Prince Edward Island","Nursing",3708
+"417","2015/2016","Prince Edward Island","Nursing",3819
+"418","2016/2017","Prince Edward Island","Nursing",3933
+"419","2017/2018","Prince Edward Island","Nursing",4053
+"420","2010/2011","Prince Edward Island","Veterinary medicine",3327
+"421","2011/2012","Prince Edward Island","Veterinary medicine",3427
+"422","2012/2013","Prince Edward Island","Veterinary medicine",3564
+"423","2013/2014","Prince Edward Island","Veterinary medicine",3708
+"424","2014/2015","Prince Edward Island","Veterinary medicine",3708
+"425","2015/2016","Prince Edward Island","Veterinary medicine",3819
+"426","2016/2017","Prince Edward Island","Veterinary medicine",3933
+"427","2017/2018","Prince Edward Island","Veterinary medicine",4129
+"428","2006/2007","Prince Edward Island","Other health, parks, recreation and fitness",2693
+"429","2007/2008","Prince Edward Island","Other health, parks, recreation and fitness",2423
+"430","2008/2009","Prince Edward Island","Other health, parks, recreation and fitness",2473
+"431","2009/2010","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"432","2010/2011","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"433","2011/2012","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"434","2012/2013","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"435","2013/2014","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"436","2014/2015","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"437","2015/2016","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"438","2016/2017","Prince Edward Island","Other health, parks, recreation and fitness",6120
+"439","2017/2018","Prince Edward Island","Other health, parks, recreation and fitness",6306
+"440","2006/2007","Nova Scotia","Education",7560
+"441","2007/2008","Nova Scotia","Education",6403
+"442","2008/2009","Nova Scotia","Education",6043
+"443","2009/2010","Nova Scotia","Education",6984
+"444","2010/2011","Nova Scotia","Education",5358
+"445","2011/2012","Nova Scotia","Education",6916
+"446","2012/2013","Nova Scotia","Education",6428
+"447","2013/2014","Nova Scotia","Education",6777
+"448","2014/2015","Nova Scotia","Education",6985
+"449","2015/2016","Nova Scotia","Education",6801
+"450","2016/2017","Nova Scotia","Education",8852
+"451","2017/2018","Nova Scotia","Education",9247
+"452","2006/2007","Nova Scotia","Visual and performing arts, and communications technologies",5500
+"453","2007/2008","Nova Scotia","Visual and performing arts, and communications technologies",5464
+"454","2008/2009","Nova Scotia","Visual and performing arts, and communications technologies",5140
+"455","2009/2010","Nova Scotia","Visual and performing arts, and communications technologies",5013
+"456","2010/2011","Nova Scotia","Visual and performing arts, and communications technologies",4753
+"457","2011/2012","Nova Scotia","Visual and performing arts, and communications technologies",4957
+"458","2012/2013","Nova Scotia","Visual and performing arts, and communications technologies",5316
+"459","2013/2014","Nova Scotia","Visual and performing arts, and communications technologies",5201
+"460","2014/2015","Nova Scotia","Visual and performing arts, and communications technologies",5715
+"461","2015/2016","Nova Scotia","Visual and performing arts, and communications technologies",6261
+"462","2016/2017","Nova Scotia","Visual and performing arts, and communications technologies",7822
+"463","2017/2018","Nova Scotia","Visual and performing arts, and communications technologies",8062
+"464","2006/2007","Nova Scotia","Humanities",7143
+"465","2007/2008","Nova Scotia","Humanities",6442
+"466","2008/2009","Nova Scotia","Humanities",6053
+"467","2009/2010","Nova Scotia","Humanities",5650
+"468","2010/2011","Nova Scotia","Humanities",5389
+"469","2011/2012","Nova Scotia","Humanities",5567
+"470","2012/2013","Nova Scotia","Humanities",5773
+"471","2013/2014","Nova Scotia","Humanities",6037
+"472","2014/2015","Nova Scotia","Humanities",6173
+"473","2015/2016","Nova Scotia","Humanities",6554
+"474","2016/2017","Nova Scotia","Humanities",6856
+"475","2017/2018","Nova Scotia","Humanities",7110
+"476","2006/2007","Nova Scotia","Social and behavioural sciences, and legal studies",6738
+"477","2007/2008","Nova Scotia","Social and behavioural sciences, and legal studies",6364
+"478","2008/2009","Nova Scotia","Social and behavioural sciences, and legal studies",5053
+"479","2009/2010","Nova Scotia","Social and behavioural sciences, and legal studies",5577
+"480","2010/2011","Nova Scotia","Social and behavioural sciences, and legal studies",5315
+"481","2011/2012","Nova Scotia","Social and behavioural sciences, and legal studies",5505
+"482","2012/2013","Nova Scotia","Social and behavioural sciences, and legal studies",5547
+"483","2013/2014","Nova Scotia","Social and behavioural sciences, and legal studies",5718
+"484","2014/2015","Nova Scotia","Social and behavioural sciences, and legal studies",5799
+"485","2015/2016","Nova Scotia","Social and behavioural sciences, and legal studies",6018
+"486","2016/2017","Nova Scotia","Social and behavioural sciences, and legal studies",6407
+"487","2017/2018","Nova Scotia","Social and behavioural sciences, and legal studies",6706
+"488","2006/2007","Nova Scotia","Law",11333
+"489","2007/2008","Nova Scotia","Law",11516
+"490","2008/2009","Nova Scotia","Law",8373
+"491","2009/2010","Nova Scotia","Law",8263
+"492","2010/2011","Nova Scotia","Law",8002
+"493","2011/2012","Nova Scotia","Law",8270
+"494","2012/2013","Nova Scotia","Law",8631
+"495","2013/2014","Nova Scotia","Law",9002
+"496","2014/2015","Nova Scotia","Law",9342
+"497","2015/2016","Nova Scotia","Law",9943
+"498","2016/2017","Nova Scotia","Law",10132
+"499","2017/2018","Nova Scotia","Law",7301
+"500","2006/2007","Nova Scotia","Business, management and public administration",11564
+"501","2007/2008","Nova Scotia","Business, management and public administration",10650
+"502","2008/2009","Nova Scotia","Business, management and public administration",8377
+"503","2009/2010","Nova Scotia","Business, management and public administration",10317
+"504","2010/2011","Nova Scotia","Business, management and public administration",9427
+"505","2011/2012","Nova Scotia","Business, management and public administration",9618
+"506","2012/2013","Nova Scotia","Business, management and public administration",9758
+"507","2013/2014","Nova Scotia","Business, management and public administration",10404
+"508","2014/2015","Nova Scotia","Business, management and public administration",10518
+"509","2015/2016","Nova Scotia","Business, management and public administration",10598
+"510","2016/2017","Nova Scotia","Business, management and public administration",11655
+"511","2017/2018","Nova Scotia","Business, management and public administration",12250
+"512","2007/2008","Nova Scotia","Executive MBA",20000
+"513","2008/2009","Nova Scotia","Executive MBA",20000
+"514","2009/2010","Nova Scotia","Executive MBA",21250
+"515","2010/2011","Nova Scotia","Executive MBA",22500
+"516","2011/2012","Nova Scotia","Executive MBA",22500
+"517","2012/2013","Nova Scotia","Executive MBA",22500
+"518","2013/2014","Nova Scotia","Executive MBA",22500
+"519","2014/2015","Nova Scotia","Executive MBA",22500
+"520","2015/2016","Nova Scotia","Executive MBA",22500
+"521","2016/2017","Nova Scotia","Executive MBA",25052
+"522","2017/2018","Nova Scotia","Executive MBA",25052
+"523","2007/2008","Nova Scotia","Regular MBA",8937
+"524","2008/2009","Nova Scotia","Regular MBA",8939
+"525","2009/2010","Nova Scotia","Regular MBA",12761
+"526","2010/2011","Nova Scotia","Regular MBA",12500
+"527","2011/2012","Nova Scotia","Regular MBA",4883
+"528","2012/2013","Nova Scotia","Regular MBA",12847
+"529","2013/2014","Nova Scotia","Regular MBA",13530
+"530","2014/2015","Nova Scotia","Regular MBA",14773
+"531","2015/2016","Nova Scotia","Regular MBA",15083
+"532","2016/2017","Nova Scotia","Regular MBA",17440
+"533","2017/2018","Nova Scotia","Regular MBA",17986
+"534","2006/2007","Nova Scotia","Physical and life sciences and technologies",7508
+"535","2007/2008","Nova Scotia","Physical and life sciences and technologies",6947
+"536","2008/2009","Nova Scotia","Physical and life sciences and technologies",6408
+"537","2009/2010","Nova Scotia","Physical and life sciences and technologies",6275
+"538","2010/2011","Nova Scotia","Physical and life sciences and technologies",6014
+"539","2011/2012","Nova Scotia","Physical and life sciences and technologies",6227
+"540","2012/2013","Nova Scotia","Physical and life sciences and technologies",6533
+"541","2013/2014","Nova Scotia","Physical and life sciences and technologies",6873
+"542","2014/2015","Nova Scotia","Physical and life sciences and technologies",6863
+"543","2015/2016","Nova Scotia","Physical and life sciences and technologies",7210
+"544","2016/2017","Nova Scotia","Physical and life sciences and technologies",7535
+"545","2017/2018","Nova Scotia","Physical and life sciences and technologies",7822
+"546","2006/2007","Nova Scotia","Mathematics, computer and information sciences",7564
+"547","2007/2008","Nova Scotia","Mathematics, computer and information sciences",7078
+"548","2008/2009","Nova Scotia","Mathematics, computer and information sciences",6765
+"549","2009/2010","Nova Scotia","Mathematics, computer and information sciences",6655
+"550","2010/2011","Nova Scotia","Mathematics, computer and information sciences",6394
+"551","2011/2012","Nova Scotia","Mathematics, computer and information sciences",6616
+"552","2012/2013","Nova Scotia","Mathematics, computer and information sciences",6782
+"553","2013/2014","Nova Scotia","Mathematics, computer and information sciences",7068
+"554","2014/2015","Nova Scotia","Mathematics, computer and information sciences",7388
+"555","2015/2016","Nova Scotia","Mathematics, computer and information sciences",7619
+"556","2016/2017","Nova Scotia","Mathematics, computer and information sciences",7898
+"557","2017/2018","Nova Scotia","Mathematics, computer and information sciences",8154
+"558","2006/2007","Nova Scotia","Engineering",7418
+"559","2007/2008","Nova Scotia","Engineering",7079
+"560","2008/2009","Nova Scotia","Engineering",6787
+"561","2009/2010","Nova Scotia","Engineering",6654
+"562","2010/2011","Nova Scotia","Engineering",6393
+"563","2011/2012","Nova Scotia","Engineering",6614
+"564","2012/2013","Nova Scotia","Engineering",6803
+"565","2013/2014","Nova Scotia","Engineering",7004
+"566","2014/2015","Nova Scotia","Engineering",7239
+"567","2015/2016","Nova Scotia","Engineering",7554
+"568","2016/2017","Nova Scotia","Engineering",7788
+"569","2017/2018","Nova Scotia","Engineering",8049
+"570","2006/2007","Nova Scotia","Architecture and related technologies",9342
+"571","2007/2008","Nova Scotia","Architecture and related technologies",7472
+"572","2008/2009","Nova Scotia","Architecture and related technologies",7070
+"573","2009/2010","Nova Scotia","Architecture and related technologies",7024
+"574","2010/2011","Nova Scotia","Architecture and related technologies",6763
+"575","2011/2012","Nova Scotia","Architecture and related technologies",6984
+"576","2012/2013","Nova Scotia","Architecture and related technologies",7308
+"577","2013/2014","Nova Scotia","Architecture and related technologies",7420
+"578","2014/2015","Nova Scotia","Architecture and related technologies",7678
+"579","2015/2016","Nova Scotia","Architecture and related technologies",8051
+"580","2016/2017","Nova Scotia","Architecture and related technologies",8236
+"581","2017/2018","Nova Scotia","Architecture and related technologies",8497
+"582","2006/2007","Nova Scotia","Agriculture, natural resources and conservation",4620
+"583","2007/2008","Nova Scotia","Agriculture, natural resources and conservation",6593
+"584","2008/2009","Nova Scotia","Agriculture, natural resources and conservation",3743
+"586","2010/2011","Nova Scotia","Agriculture, natural resources and conservation",3327
+"587","2011/2012","Nova Scotia","Agriculture, natural resources and conservation",6497
+"588","2012/2013","Nova Scotia","Agriculture, natural resources and conservation",7027
+"589","2013/2014","Nova Scotia","Agriculture, natural resources and conservation",7225
+"590","2014/2015","Nova Scotia","Agriculture, natural resources and conservation",7450
+"591","2015/2016","Nova Scotia","Agriculture, natural resources and conservation",7970
+"592","2016/2017","Nova Scotia","Agriculture, natural resources and conservation",8284
+"593","2017/2018","Nova Scotia","Agriculture, natural resources and conservation",8545
+"594","2007/2008","Nova Scotia","Dentistry",14148
+"600","2013/2014","Nova Scotia","Dentistry",17769
+"601","2014/2015","Nova Scotia","Dentistry",18311
+"602","2015/2016","Nova Scotia","Dentistry",19131
+"603","2016/2017","Nova Scotia","Dentistry",19704
+"604","2017/2018","Nova Scotia","Dentistry",20295
+"605","2007/2008","Nova Scotia","Medicine",7382
+"616","2007/2008","Nova Scotia","Nursing",7774
+"617","2008/2009","Nova Scotia","Nursing",7432
+"618","2009/2010","Nova Scotia","Nursing",7281
+"619","2010/2011","Nova Scotia","Nursing",7020
+"620","2011/2012","Nova Scotia","Nursing",7256
+"621","2012/2013","Nova Scotia","Nursing",7509
+"622","2013/2014","Nova Scotia","Nursing",7741
+"623","2014/2015","Nova Scotia","Nursing",8029
+"624","2015/2016","Nova Scotia","Nursing",8378
+"625","2016/2017","Nova Scotia","Nursing",8437
+"626","2017/2018","Nova Scotia","Nursing",8719
+"627","2008/2009","Nova Scotia","Pharmacy",8918
+"631","2012/2013","Nova Scotia","Pharmacy",8890
+"632","2013/2014","Nova Scotia","Pharmacy",8671
+"637","2006/2007","Nova Scotia","Other health, parks, recreation and fitness",7269
+"638","2007/2008","Nova Scotia","Other health, parks, recreation and fitness",7048
+"639","2008/2009","Nova Scotia","Other health, parks, recreation and fitness",12665
+"640","2009/2010","Nova Scotia","Other health, parks, recreation and fitness",12532
+"641","2010/2011","Nova Scotia","Other health, parks, recreation and fitness",12271
+"642","2011/2012","Nova Scotia","Other health, parks, recreation and fitness",12271
+"643","2012/2013","Nova Scotia","Other health, parks, recreation and fitness",12252
+"644","2013/2014","Nova Scotia","Other health, parks, recreation and fitness",12262
+"645","2014/2015","Nova Scotia","Other health, parks, recreation and fitness",12284
+"646","2015/2016","Nova Scotia","Other health, parks, recreation and fitness",12450
+"647","2016/2017","Nova Scotia","Other health, parks, recreation and fitness",12339
+"648","2017/2018","Nova Scotia","Other health, parks, recreation and fitness",12343
+"649","2006/2007","New Brunswick","Education",5088
+"650","2007/2008","New Brunswick","Education",5182
+"651","2008/2009","New Brunswick","Education",5133
+"652","2009/2010","New Brunswick","Education",5133
+"653","2010/2011","New Brunswick","Education",4882
+"654","2011/2012","New Brunswick","Education",5062
+"655","2012/2013","New Brunswick","Education",5184
+"656","2013/2014","New Brunswick","Education",5418
+"657","2014/2015","New Brunswick","Education",5585
+"658","2015/2016","New Brunswick","Education",5508
+"659","2016/2017","New Brunswick","Education",5746
+"660","2017/2018","New Brunswick","Education",5856
+"661","2006/2007","New Brunswick","Humanities",5228
+"662","2007/2008","New Brunswick","Humanities",5306
+"663","2008/2009","New Brunswick","Humanities",5271
+"664","2009/2010","New Brunswick","Humanities",5260
+"665","2010/2011","New Brunswick","Humanities",5260
+"666","2011/2012","New Brunswick","Humanities",5454
+"667","2012/2013","New Brunswick","Humanities",5569
+"668","2013/2014","New Brunswick","Humanities",5699
+"669","2014/2015","New Brunswick","Humanities",5847
+"670","2015/2016","New Brunswick","Humanities",5763
+"671","2016/2017","New Brunswick","Humanities",5967
+"672","2017/2018","New Brunswick","Humanities",6083
+"673","2006/2007","New Brunswick","Social and behavioural sciences, and legal studies",4746
+"674","2007/2008","New Brunswick","Social and behavioural sciences, and legal studies",4860
+"675","2008/2009","New Brunswick","Social and behavioural sciences, and legal studies",4791
+"676","2009/2010","New Brunswick","Social and behavioural sciences, and legal studies",4773
+"677","2010/2011","New Brunswick","Social and behavioural sciences, and legal studies",4958
+"678","2011/2012","New Brunswick","Social and behavioural sciences, and legal studies",5146
+"679","2012/2013","New Brunswick","Social and behavioural sciences, and legal studies",5435
+"680","2013/2014","New Brunswick","Social and behavioural sciences, and legal studies",5570
+"681","2014/2015","New Brunswick","Social and behavioural sciences, and legal studies",5825
+"682","2015/2016","New Brunswick","Social and behavioural sciences, and legal studies",5868
+"683","2016/2017","New Brunswick","Social and behavioural sciences, and legal studies",6075
+"684","2017/2018","New Brunswick","Social and behavioural sciences, and legal studies",6193
+"685","2006/2007","New Brunswick","Law",3174
+"686","2007/2008","New Brunswick","Law",3290
+"687","2008/2009","New Brunswick","Law",3290
+"688","2009/2010","New Brunswick","Law",3290
+"689","2010/2011","New Brunswick","Law",3290
+"690","2011/2012","New Brunswick","Law",3429
+"691","2012/2013","New Brunswick","Law",3546
+"692","2013/2014","New Brunswick","Law",3642
+"693","2014/2015","New Brunswick","Law",3738
+"694","2015/2016","New Brunswick","Law",3738
+"695","2016/2017","New Brunswick","Law",3807
+"696","2017/2018","New Brunswick","Law",3876
+"697","2006/2007","New Brunswick","Business, management and public administration",4296
+"698","2007/2008","New Brunswick","Business, management and public administration",4994
+"699","2008/2009","New Brunswick","Business, management and public administration",4819
+"700","2009/2010","New Brunswick","Business, management and public administration",5056
+"701","2010/2011","New Brunswick","Business, management and public administration",5234
+"702","2011/2012","New Brunswick","Business, management and public administration",5427
+"703","2012/2013","New Brunswick","Business, management and public administration",5000
+"704","2013/2014","New Brunswick","Business, management and public administration",5210
+"705","2014/2015","New Brunswick","Business, management and public administration",5328
+"706","2015/2016","New Brunswick","Business, management and public administration",5123
+"707","2016/2017","New Brunswick","Business, management and public administration",4583
+"708","2017/2018","New Brunswick","Business, management and public administration",4667
+"709","2007/2008","New Brunswick","Regular MBA",4655
+"710","2008/2009","New Brunswick","Regular MBA",4655
+"711","2009/2010","New Brunswick","Regular MBA",4655
+"712","2010/2011","New Brunswick","Regular MBA",4973
+"713","2011/2012","New Brunswick","Regular MBA",5180
+"714","2012/2013","New Brunswick","Regular MBA",5560
+"715","2013/2014","New Brunswick","Regular MBA",5737
+"716","2014/2015","New Brunswick","Regular MBA",5866
+"717","2015/2016","New Brunswick","Regular MBA",5874
+"718","2016/2017","New Brunswick","Regular MBA",6242
+"719","2017/2018","New Brunswick","Regular MBA",6363
+"720","2006/2007","New Brunswick","Physical and life sciences and technologies",4853
+"721","2007/2008","New Brunswick","Physical and life sciences and technologies",5120
+"722","2008/2009","New Brunswick","Physical and life sciences and technologies",5050
+"723","2009/2010","New Brunswick","Physical and life sciences and technologies",5063
+"724","2010/2011","New Brunswick","Physical and life sciences and technologies",5045
+"725","2011/2012","New Brunswick","Physical and life sciences and technologies",5420
+"726","2012/2013","New Brunswick","Physical and life sciences and technologies",5643
+"727","2013/2014","New Brunswick","Physical and life sciences and technologies",5738
+"728","2014/2015","New Brunswick","Physical and life sciences and technologies",5844
+"729","2015/2016","New Brunswick","Physical and life sciences and technologies",5781
+"730","2016/2017","New Brunswick","Physical and life sciences and technologies",6106
+"731","2017/2018","New Brunswick","Physical and life sciences and technologies",6226
+"732","2006/2007","New Brunswick","Mathematics, computer and information sciences",5694
+"733","2007/2008","New Brunswick","Mathematics, computer and information sciences",5797
+"734","2008/2009","New Brunswick","Mathematics, computer and information sciences",5756
+"735","2009/2010","New Brunswick","Mathematics, computer and information sciences",5716
+"736","2010/2011","New Brunswick","Mathematics, computer and information sciences",5448
+"737","2011/2012","New Brunswick","Mathematics, computer and information sciences",5643
+"738","2012/2013","New Brunswick","Mathematics, computer and information sciences",5542
+"739","2013/2014","New Brunswick","Mathematics, computer and information sciences",5533
+"740","2014/2015","New Brunswick","Mathematics, computer and information sciences",5625
+"741","2015/2016","New Brunswick","Mathematics, computer and information sciences",5788
+"742","2016/2017","New Brunswick","Mathematics, computer and information sciences",5965
+"743","2017/2018","New Brunswick","Mathematics, computer and information sciences",6083
+"744","2006/2007","New Brunswick","Engineering",5395
+"745","2007/2008","New Brunswick","Engineering",5387
+"746","2008/2009","New Brunswick","Engineering",5367
+"747","2009/2010","New Brunswick","Engineering",5256
+"748","2010/2011","New Brunswick","Engineering",5204
+"749","2011/2012","New Brunswick","Engineering",5393
+"750","2012/2013","New Brunswick","Engineering",5664
+"751","2013/2014","New Brunswick","Engineering",5894
+"752","2014/2015","New Brunswick","Engineering",6264
+"753","2015/2016","New Brunswick","Engineering",6264
+"754","2016/2017","New Brunswick","Engineering",6397
+"755","2017/2018","New Brunswick","Engineering",6525
+"756","2006/2007","New Brunswick","Agriculture, natural resources and conservation",4208
+"757","2007/2008","New Brunswick","Agriculture, natural resources and conservation",4365
+"758","2008/2009","New Brunswick","Agriculture, natural resources and conservation",4365
+"759","2009/2010","New Brunswick","Agriculture, natural resources and conservation",4365
+"760","2010/2011","New Brunswick","Agriculture, natural resources and conservation",3793
+"761","2011/2012","New Brunswick","Agriculture, natural resources and conservation",3952
+"762","2012/2013","New Brunswick","Agriculture, natural resources and conservation",4089
+"763","2013/2014","New Brunswick","Agriculture, natural resources and conservation",4203
+"764","2014/2015","New Brunswick","Agriculture, natural resources and conservation",4317
+"765","2015/2016","New Brunswick","Agriculture, natural resources and conservation",4317
+"766","2016/2017","New Brunswick","Agriculture, natural resources and conservation",4396
+"767","2017/2018","New Brunswick","Agriculture, natural resources and conservation",4476
+"768","2007/2008","New Brunswick","Nursing",4382
+"769","2008/2009","New Brunswick","Nursing",4776
+"770","2009/2010","New Brunswick","Nursing",4907
+"771","2010/2011","New Brunswick","Nursing",4907
+"772","2011/2012","New Brunswick","Nursing",5090
+"773","2012/2013","New Brunswick","Nursing",5104
+"774","2013/2014","New Brunswick","Nursing",5199
+"775","2014/2015","New Brunswick","Nursing",5430
+"776","2015/2016","New Brunswick","Nursing",5379
+"777","2016/2017","New Brunswick","Nursing",5922
+"778","2017/2018","New Brunswick","Nursing",6038
+"779","2006/2007","New Brunswick","Other health, parks, recreation and fitness",5496
+"780","2007/2008","New Brunswick","Other health, parks, recreation and fitness",5562
+"781","2008/2009","New Brunswick","Other health, parks, recreation and fitness",5562
+"782","2009/2010","New Brunswick","Other health, parks, recreation and fitness",5562
+"783","2010/2011","New Brunswick","Other health, parks, recreation and fitness",5562
+"784","2011/2012","New Brunswick","Other health, parks, recreation and fitness",5760
+"785","2012/2013","New Brunswick","Other health, parks, recreation and fitness",5934
+"786","2013/2014","New Brunswick","Other health, parks, recreation and fitness",6084
+"787","2014/2015","New Brunswick","Other health, parks, recreation and fitness",6264
+"788","2015/2016","New Brunswick","Other health, parks, recreation and fitness",6264
+"789","2016/2017","New Brunswick","Other health, parks, recreation and fitness",6576
+"790","2017/2018","New Brunswick","Other health, parks, recreation and fitness",6708
+"791","2006/2007","Quebec","Education",1951
+"792","2007/2008","Quebec","Education",2043
+"793","2008/2009","Quebec","Education",2052
+"794","2009/2010","Quebec","Education",2347
+"795","2010/2011","Quebec","Education",2513
+"796","2011/2012","Quebec","Education",2630
+"797","2012/2013","Quebec","Education",2567
+"798","2013/2014","Quebec","Education",2566
+"799","2014/2015","Quebec","Education",2629
+"800","2015/2016","Quebec","Education",2662
+"801","2016/2017","Quebec","Education",2679
+"802","2017/2018","Quebec","Education",2749
+"803","2006/2007","Quebec","Visual and performing arts, and communications technologies",2414
+"804","2007/2008","Quebec","Visual and performing arts, and communications technologies",2503
+"805","2008/2009","Quebec","Visual and performing arts, and communications technologies",2446
+"806","2009/2010","Quebec","Visual and performing arts, and communications technologies",2968
+"807","2010/2011","Quebec","Visual and performing arts, and communications technologies",3160
+"808","2011/2012","Quebec","Visual and performing arts, and communications technologies",3290
+"809","2012/2013","Quebec","Visual and performing arts, and communications technologies",3209
+"810","2013/2014","Quebec","Visual and performing arts, and communications technologies",3005
+"811","2014/2015","Quebec","Visual and performing arts, and communications technologies",3091
+"812","2015/2016","Quebec","Visual and performing arts, and communications technologies",3180
+"813","2016/2017","Quebec","Visual and performing arts, and communications technologies",3222
+"814","2017/2018","Quebec","Visual and performing arts, and communications technologies",3305
+"815","2006/2007","Quebec","Humanities",2133
+"816","2007/2008","Quebec","Humanities",2197
+"817","2008/2009","Quebec","Humanities",2175
+"818","2009/2010","Quebec","Humanities",2408
+"819","2010/2011","Quebec","Humanities",2577
+"820","2011/2012","Quebec","Humanities",2686
+"821","2012/2013","Quebec","Humanities",2697
+"822","2013/2014","Quebec","Humanities",2648
+"823","2014/2015","Quebec","Humanities",2764
+"824","2015/2016","Quebec","Humanities",2795
+"825","2016/2017","Quebec","Humanities",2829
+"826","2017/2018","Quebec","Humanities",2904
+"827","2006/2007","Quebec","Social and behavioural sciences, and legal studies",2072
+"828","2007/2008","Quebec","Social and behavioural sciences, and legal studies",2159
+"829","2008/2009","Quebec","Social and behavioural sciences, and legal studies",2170
+"830","2009/2010","Quebec","Social and behavioural sciences, and legal studies",2350
+"831","2010/2011","Quebec","Social and behavioural sciences, and legal studies",2493
+"832","2011/2012","Quebec","Social and behavioural sciences, and legal studies",2601
+"833","2012/2013","Quebec","Social and behavioural sciences, and legal studies",2573
+"834","2013/2014","Quebec","Social and behavioural sciences, and legal studies",2599
+"835","2014/2015","Quebec","Social and behavioural sciences, and legal studies",2683
+"836","2015/2016","Quebec","Social and behavioural sciences, and legal studies",2704
+"837","2016/2017","Quebec","Social and behavioural sciences, and legal studies",2748
+"838","2017/2018","Quebec","Social and behavioural sciences, and legal studies",2820
+"839","2006/2007","Quebec","Law",1906
+"840","2007/2008","Quebec","Law",1945
+"841","2008/2009","Quebec","Law",2082
+"842","2009/2010","Quebec","Law",2287
+"843","2010/2011","Quebec","Law",2382
+"844","2011/2012","Quebec","Law",2495
+"845","2012/2013","Quebec","Law",2503
+"846","2013/2014","Quebec","Law",2576
+"847","2014/2015","Quebec","Law",2725
+"848","2015/2016","Quebec","Law",2819
+"849","2016/2017","Quebec","Law",2696
+"850","2017/2018","Quebec","Law",2767
+"851","2006/2007","Quebec","Business, management and public administration",2122
+"852","2007/2008","Quebec","Business, management and public administration",2058
+"853","2008/2009","Quebec","Business, management and public administration",2054
+"854","2009/2010","Quebec","Business, management and public administration",2252
+"855","2010/2011","Quebec","Business, management and public administration",2411
+"856","2011/2012","Quebec","Business, management and public administration",2522
+"857","2012/2013","Quebec","Business, management and public administration",2476
+"858","2013/2014","Quebec","Business, management and public administration",2473
+"859","2014/2015","Quebec","Business, management and public administration",2496
+"860","2015/2016","Quebec","Business, management and public administration",2553
+"861","2016/2017","Quebec","Business, management and public administration",2563
+"862","2017/2018","Quebec","Business, management and public administration",2622
+"863","2007/2008","Quebec","Executive MBA",8130
+"864","2008/2009","Quebec","Executive MBA",4869
+"865","2009/2010","Quebec","Executive MBA",5609
+"866","2010/2011","Quebec","Executive MBA",7577
+"867","2011/2012","Quebec","Executive MBA",7505
+"868","2012/2013","Quebec","Executive MBA",6041
+"869","2013/2014","Quebec","Executive MBA",6538
+"870","2014/2015","Quebec","Executive MBA",7063
+"871","2015/2016","Quebec","Executive MBA",6751
+"872","2016/2017","Quebec","Executive MBA",7055
+"873","2017/2018","Quebec","Executive MBA",7107
+"874","2007/2008","Quebec","Regular MBA",2051
+"875","2008/2009","Quebec","Regular MBA",2342
+"876","2009/2010","Quebec","Regular MBA",3167
+"877","2010/2011","Quebec","Regular MBA",3733
+"878","2011/2012","Quebec","Regular MBA",4000
+"879","2012/2013","Quebec","Regular MBA",3846
+"880","2013/2014","Quebec","Regular MBA",3673
+"881","2014/2015","Quebec","Regular MBA",3990
+"882","2015/2016","Quebec","Regular MBA",8867
+"883","2016/2017","Quebec","Regular MBA",9459
+"884","2017/2018","Quebec","Regular MBA",9796
+"885","2006/2007","Quebec","Physical and life sciences and technologies",2078
+"886","2007/2008","Quebec","Physical and life sciences and technologies",2153
+"887","2008/2009","Quebec","Physical and life sciences and technologies",2356
+"888","2009/2010","Quebec","Physical and life sciences and technologies",2519
+"889","2010/2011","Quebec","Physical and life sciences and technologies",2643
+"890","2011/2012","Quebec","Physical and life sciences and technologies",2769
+"891","2012/2013","Quebec","Physical and life sciences and technologies",2808
+"892","2013/2014","Quebec","Physical and life sciences and technologies",2943
+"893","2014/2015","Quebec","Physical and life sciences and technologies",3066
+"894","2015/2016","Quebec","Physical and life sciences and technologies",3188
+"895","2016/2017","Quebec","Physical and life sciences and technologies",3297
+"896","2017/2018","Quebec","Physical and life sciences and technologies",3382
+"897","2006/2007","Quebec","Mathematics, computer and information sciences",2163
+"898","2007/2008","Quebec","Mathematics, computer and information sciences",2327
+"899","2008/2009","Quebec","Mathematics, computer and information sciences",2208
+"900","2009/2010","Quebec","Mathematics, computer and information sciences",2531
+"901","2010/2011","Quebec","Mathematics, computer and information sciences",2765
+"902","2011/2012","Quebec","Mathematics, computer and information sciences",2882
+"903","2012/2013","Quebec","Mathematics, computer and information sciences",2867
+"904","2013/2014","Quebec","Mathematics, computer and information sciences",2860
+"905","2014/2015","Quebec","Mathematics, computer and information sciences",2928
+"906","2015/2016","Quebec","Mathematics, computer and information sciences",3055
+"907","2016/2017","Quebec","Mathematics, computer and information sciences",3141
+"908","2017/2018","Quebec","Mathematics, computer and information sciences",3223
+"909","2006/2007","Quebec","Engineering",2251
+"910","2007/2008","Quebec","Engineering",2325
+"911","2008/2009","Quebec","Engineering",2128
+"912","2009/2010","Quebec","Engineering",2588
+"913","2010/2011","Quebec","Engineering",2841
+"914","2011/2012","Quebec","Engineering",2940
+"915","2012/2013","Quebec","Engineering",2831
+"916","2013/2014","Quebec","Engineering",2730
+"917","2014/2015","Quebec","Engineering",2858
+"918","2015/2016","Quebec","Engineering",2936
+"919","2016/2017","Quebec","Engineering",3044
+"920","2017/2018","Quebec","Engineering",3121
+"921","2006/2007","Quebec","Architecture and related technologies",2145
+"922","2007/2008","Quebec","Architecture and related technologies",2160
+"923","2008/2009","Quebec","Architecture and related technologies",2210
+"924","2009/2010","Quebec","Architecture and related technologies",2425
+"925","2010/2011","Quebec","Architecture and related technologies",2533
+"926","2011/2012","Quebec","Architecture and related technologies",2656
+"927","2012/2013","Quebec","Architecture and related technologies",2589
+"928","2013/2014","Quebec","Architecture and related technologies",2699
+"929","2014/2015","Quebec","Architecture and related technologies",2777
+"930","2015/2016","Quebec","Architecture and related technologies",2785
+"931","2016/2017","Quebec","Architecture and related technologies",2805
+"932","2017/2018","Quebec","Architecture and related technologies",2879
+"933","2006/2007","Quebec","Agriculture, natural resources and conservation",1925
+"934","2007/2008","Quebec","Agriculture, natural resources and conservation",2076
+"935","2008/2009","Quebec","Agriculture, natural resources and conservation",2336
+"936","2009/2010","Quebec","Agriculture, natural resources and conservation",2381
+"937","2010/2011","Quebec","Agriculture, natural resources and conservation",2412
+"938","2011/2012","Quebec","Agriculture, natural resources and conservation",2493
+"939","2012/2013","Quebec","Agriculture, natural resources and conservation",2522
+"940","2013/2014","Quebec","Agriculture, natural resources and conservation",3392
+"941","2014/2015","Quebec","Agriculture, natural resources and conservation",3569
+"942","2015/2016","Quebec","Agriculture, natural resources and conservation",2715
+"943","2016/2017","Quebec","Agriculture, natural resources and conservation",2902
+"944","2017/2018","Quebec","Agriculture, natural resources and conservation",2979
+"945","2007/2008","Quebec","Dentistry",2239
+"946","2008/2009","Quebec","Dentistry",2557
+"947","2009/2010","Quebec","Dentistry",2533
+"948","2010/2011","Quebec","Dentistry",2644
+"949","2011/2012","Quebec","Dentistry",2772
+"950","2012/2013","Quebec","Dentistry",2982
+"951","2013/2014","Quebec","Dentistry",2998
+"952","2014/2015","Quebec","Dentistry",3112
+"953","2015/2016","Quebec","Dentistry",3457
+"954","2016/2017","Quebec","Dentistry",3630
+"955","2017/2018","Quebec","Dentistry",3722
+"956","2007/2008","Quebec","Medicine",2276
+"967","2007/2008","Quebec","Nursing",2435
+"968","2008/2009","Quebec","Nursing",2439
+"969","2009/2010","Quebec","Nursing",2366
+"970","2010/2011","Quebec","Nursing",2472
+"971","2011/2012","Quebec","Nursing",2572
+"972","2012/2013","Quebec","Nursing",2751
+"973","2013/2014","Quebec","Nursing",2891
+"974","2014/2015","Quebec","Nursing",2934
+"975","2015/2016","Quebec","Nursing",2880
+"976","2016/2017","Quebec","Nursing",2815
+"977","2017/2018","Quebec","Nursing",2889
+"978","2007/2008","Quebec","Pharmacy",1834
+"979","2008/2009","Quebec","Pharmacy",1950
+"980","2009/2010","Quebec","Pharmacy",2005
+"981","2010/2011","Quebec","Pharmacy",2105
+"982","2011/2012","Quebec","Pharmacy",2204
+"983","2012/2013","Quebec","Pharmacy",2281
+"984","2013/2014","Quebec","Pharmacy",2426
+"985","2014/2015","Quebec","Pharmacy",2401
+"986","2015/2016","Quebec","Pharmacy",2413
+"987","2016/2017","Quebec","Pharmacy",2431
+"988","2017/2018","Quebec","Pharmacy",2496
+"989","2007/2008","Quebec","Veterinary medicine",1850
+"990","2008/2009","Quebec","Veterinary medicine",1921
+"991","2009/2010","Quebec","Veterinary medicine",1968
+"992","2010/2011","Quebec","Veterinary medicine",2068
+"993","2011/2012","Quebec","Veterinary medicine",2168
+"994","2012/2013","Quebec","Veterinary medicine",2344
+"995","2013/2014","Quebec","Veterinary medicine",2420
+"996","2014/2015","Quebec","Veterinary medicine",2476
+"997","2015/2016","Quebec","Veterinary medicine",2349
+"998","2016/2017","Quebec","Veterinary medicine",2457
+"999","2017/2018","Quebec","Veterinary medicine",2523
+"1000","2006/2007","Quebec","Other health, parks, recreation and fitness",1894
+"1001","2007/2008","Quebec","Other health, parks, recreation and fitness",2158
+"1002","2008/2009","Quebec","Other health, parks, recreation and fitness",2238
+"1003","2009/2010","Quebec","Other health, parks, recreation and fitness",2493
+"1004","2010/2011","Quebec","Other health, parks, recreation and fitness",2626
+"1005","2011/2012","Quebec","Other health, parks, recreation and fitness",2732
+"1006","2012/2013","Quebec","Other health, parks, recreation and fitness",2777
+"1007","2013/2014","Quebec","Other health, parks, recreation and fitness",2782
+"1008","2014/2015","Quebec","Other health, parks, recreation and fitness",2853
+"1009","2015/2016","Quebec","Other health, parks, recreation and fitness",2898
+"1010","2016/2017","Quebec","Other health, parks, recreation and fitness",2967
+"1011","2017/2018","Quebec","Other health, parks, recreation and fitness",3045
+"1012","2006/2007","Ontario","Education",5086
+"1013","2007/2008","Ontario","Education",4730
+"1014","2008/2009","Ontario","Education",5423
+"1015","2009/2010","Ontario","Education",5626
+"1016","2010/2011","Ontario","Education",5965
+"1017","2011/2012","Ontario","Education",6438
+"1018","2012/2013","Ontario","Education",7483
+"1019","2013/2014","Ontario","Education",7551
+"1020","2014/2015","Ontario","Education",7686
+"1021","2015/2016","Ontario","Education",8038
+"1022","2016/2017","Ontario","Education",8411
+"1023","2017/2018","Ontario","Education",8629
+"1024","2006/2007","Ontario","Visual and performing arts, and communications technologies",5457
+"1025","2007/2008","Ontario","Visual and performing arts, and communications technologies",5637
+"1026","2008/2009","Ontario","Visual and performing arts, and communications technologies",5977
+"1027","2009/2010","Ontario","Visual and performing arts, and communications technologies",6143
+"1028","2010/2011","Ontario","Visual and performing arts, and communications technologies",6567
+"1029","2011/2012","Ontario","Visual and performing arts, and communications technologies",5588
+"1030","2012/2013","Ontario","Visual and performing arts, and communications technologies",6594
+"1031","2013/2014","Ontario","Visual and performing arts, and communications technologies",6410
+"1032","2014/2015","Ontario","Visual and performing arts, and communications technologies",6547
+"1033","2015/2016","Ontario","Visual and performing arts, and communications technologies",7533
+"1034","2016/2017","Ontario","Visual and performing arts, and communications technologies",7362
+"1035","2017/2018","Ontario","Visual and performing arts, and communications technologies",7495
+"1036","2006/2007","Ontario","Humanities",4705
+"1037","2007/2008","Ontario","Humanities",4679
+"1038","2008/2009","Ontario","Humanities",4979
+"1039","2009/2010","Ontario","Humanities",5287
+"1040","2010/2011","Ontario","Humanities",5654
+"1041","2011/2012","Ontario","Humanities",5995
+"1042","2012/2013","Ontario","Humanities",6265
+"1043","2013/2014","Ontario","Humanities",6223
+"1044","2014/2015","Ontario","Humanities",6238
+"1045","2015/2016","Ontario","Humanities",6236
+"1046","2016/2017","Ontario","Humanities",6351
+"1047","2017/2018","Ontario","Humanities",6381
+"1048","2006/2007","Ontario","Social and behavioural sciences, and legal studies",4700
+"1049","2007/2008","Ontario","Social and behavioural sciences, and legal studies",4621
+"1050","2008/2009","Ontario","Social and behavioural sciences, and legal studies",4992
+"1051","2009/2010","Ontario","Social and behavioural sciences, and legal studies",5268
+"1052","2010/2011","Ontario","Social and behavioural sciences, and legal studies",5980
+"1053","2011/2012","Ontario","Social and behavioural sciences, and legal studies",6364
+"1054","2012/2013","Ontario","Social and behavioural sciences, and legal studies",7127
+"1055","2013/2014","Ontario","Social and behavioural sciences, and legal studies",7132
+"1056","2014/2015","Ontario","Social and behavioural sciences, and legal studies",7389
+"1057","2015/2016","Ontario","Social and behavioural sciences, and legal studies",7643
+"1058","2016/2017","Ontario","Social and behavioural sciences, and legal studies",8269
+"1059","2017/2018","Ontario","Social and behavioural sciences, and legal studies",8402
+"1060","2006/2007","Ontario","Law",4985
+"1061","2007/2008","Ontario","Law",4736
+"1062","2008/2009","Ontario","Law",4882
+"1063","2009/2010","Ontario","Law",5145
+"1064","2010/2011","Ontario","Law",5081
+"1065","2011/2012","Ontario","Law",8141
+"1066","2012/2013","Ontario","Law",8350
+"1067","2013/2014","Ontario","Law",8973
+"1068","2014/2015","Ontario","Law",9311
+"1069","2015/2016","Ontario","Law",9597
+"1070","2016/2017","Ontario","Law",10077
+"1071","2017/2018","Ontario","Law",10378
+"1072","2006/2007","Ontario","Business, management and public administration",23927
+"1073","2007/2008","Ontario","Business, management and public administration",10017
+"1074","2008/2009","Ontario","Business, management and public administration",11458
+"1075","2009/2010","Ontario","Business, management and public administration",11905
+"1076","2010/2011","Ontario","Business, management and public administration",16543
+"1077","2011/2012","Ontario","Business, management and public administration",18930
+"1078","2012/2013","Ontario","Business, management and public administration",15286
+"1079","2013/2014","Ontario","Business, management and public administration",15936
+"1080","2014/2015","Ontario","Business, management and public administration",16529
+"1081","2015/2016","Ontario","Business, management and public administration",17501
+"1082","2016/2017","Ontario","Business, management and public administration",18358
+"1083","2017/2018","Ontario","Business, management and public administration",18418
+"1084","2007/2008","Ontario","Executive MBA",33253
+"1085","2008/2009","Ontario","Executive MBA",39530
+"1086","2009/2010","Ontario","Executive MBA",42216
+"1087","2010/2011","Ontario","Executive MBA",63176
+"1088","2011/2012","Ontario","Executive MBA",64124
+"1089","2012/2013","Ontario","Executive MBA",62593
+"1090","2013/2014","Ontario","Executive MBA",70909
+"1091","2014/2015","Ontario","Executive MBA",72976
+"1092","2015/2016","Ontario","Executive MBA",90838
+"1093","2016/2017","Ontario","Executive MBA",89876
+"1094","2017/2018","Ontario","Executive MBA",91986
+"1095","2007/2008","Ontario","Regular MBA",26301
+"1096","2008/2009","Ontario","Regular MBA",26356
+"1097","2009/2010","Ontario","Regular MBA",28024
+"1098","2010/2011","Ontario","Regular MBA",29195
+"1099","2011/2012","Ontario","Regular MBA",33439
+"1100","2012/2013","Ontario","Regular MBA",33702
+"1101","2013/2014","Ontario","Regular MBA",38906
+"1102","2014/2015","Ontario","Regular MBA",40234
+"1103","2015/2016","Ontario","Regular MBA",36905
+"1104","2016/2017","Ontario","Regular MBA",40593
+"1105","2017/2018","Ontario","Regular MBA",41924
+"1106","2006/2007","Ontario","Physical and life sciences and technologies",5807
+"1107","2007/2008","Ontario","Physical and life sciences and technologies",5860
+"1108","2008/2009","Ontario","Physical and life sciences and technologies",6234
+"1109","2009/2010","Ontario","Physical and life sciences and technologies",6562
+"1110","2010/2011","Ontario","Physical and life sciences and technologies",6940
+"1111","2011/2012","Ontario","Physical and life sciences and technologies",7437
+"1112","2012/2013","Ontario","Physical and life sciences and technologies",7564
+"1113","2013/2014","Ontario","Physical and life sciences and technologies",7681
+"1114","2014/2015","Ontario","Physical and life sciences and technologies",7893
+"1115","2015/2016","Ontario","Physical and life sciences and technologies",8143
+"1116","2016/2017","Ontario","Physical and life sciences and technologies",8330
+"1117","2017/2018","Ontario","Physical and life sciences and technologies",8500
+"1118","2006/2007","Ontario","Mathematics, computer and information sciences",4811
+"1119","2007/2008","Ontario","Mathematics, computer and information sciences",4894
+"1120","2008/2009","Ontario","Mathematics, computer and information sciences",5222
+"1121","2009/2010","Ontario","Mathematics, computer and information sciences",6793
+"1122","2010/2011","Ontario","Mathematics, computer and information sciences",7079
+"1123","2011/2012","Ontario","Mathematics, computer and information sciences",7472
+"1124","2012/2013","Ontario","Mathematics, computer and information sciences",6998
+"1125","2013/2014","Ontario","Mathematics, computer and information sciences",7040
+"1126","2014/2015","Ontario","Mathematics, computer and information sciences",7117
+"1127","2015/2016","Ontario","Mathematics, computer and information sciences",7296
+"1128","2016/2017","Ontario","Mathematics, computer and information sciences",10072
+"1129","2017/2018","Ontario","Mathematics, computer and information sciences",10310
+"1130","2006/2007","Ontario","Engineering",5395
+"1131","2007/2008","Ontario","Engineering",5716
+"1132","2008/2009","Ontario","Engineering",6148
+"1133","2009/2010","Ontario","Engineering",6678
+"1134","2010/2011","Ontario","Engineering",6905
+"1135","2011/2012","Ontario","Engineering",6927
+"1136","2012/2013","Ontario","Engineering",8312
+"1137","2013/2014","Ontario","Engineering",8570
+"1138","2014/2015","Ontario","Engineering",8850
+"1139","2015/2016","Ontario","Engineering",9117
+"1140","2016/2017","Ontario","Engineering",9388
+"1141","2017/2018","Ontario","Engineering",9597
+"1142","2006/2007","Ontario","Architecture and related technologies",5128
+"1143","2007/2008","Ontario","Architecture and related technologies",5178
+"1144","2008/2009","Ontario","Architecture and related technologies",5532
+"1145","2009/2010","Ontario","Architecture and related technologies",5866
+"1146","2010/2011","Ontario","Architecture and related technologies",6179
+"1147","2011/2012","Ontario","Architecture and related technologies",6557
+"1148","2012/2013","Ontario","Architecture and related technologies",7005
+"1149","2013/2014","Ontario","Architecture and related technologies",7257
+"1150","2014/2015","Ontario","Architecture and related technologies",7506
+"1151","2015/2016","Ontario","Architecture and related technologies",7782
+"1152","2016/2017","Ontario","Architecture and related technologies",8170
+"1153","2017/2018","Ontario","Architecture and related technologies",8419
+"1154","2006/2007","Ontario","Agriculture, natural resources and conservation",3357
+"1155","2007/2008","Ontario","Agriculture, natural resources and conservation",3739
+"1156","2008/2009","Ontario","Agriculture, natural resources and conservation",4006
+"1157","2009/2010","Ontario","Agriculture, natural resources and conservation",4156
+"1158","2010/2011","Ontario","Agriculture, natural resources and conservation",4433
+"1159","2011/2012","Ontario","Agriculture, natural resources and conservation",4396
+"1160","2012/2013","Ontario","Agriculture, natural resources and conservation",5384
+"1161","2013/2014","Ontario","Agriculture, natural resources and conservation",5201
+"1162","2014/2015","Ontario","Agriculture, natural resources and conservation",5369
+"1163","2015/2016","Ontario","Agriculture, natural resources and conservation",5496
+"1164","2016/2017","Ontario","Agriculture, natural resources and conservation",5791
+"1165","2017/2018","Ontario","Agriculture, natural resources and conservation",5924
+"1166","2007/2008","Ontario","Dentistry",12070
+"1171","2012/2013","Ontario","Dentistry",16600
+"1172","2013/2014","Ontario","Dentistry",17233
+"1173","2014/2015","Ontario","Dentistry",17905
+"1174","2015/2016","Ontario","Dentistry",18606
+"1175","2016/2017","Ontario","Dentistry",19408
+"1176","2017/2018","Ontario","Dentistry",20180
+"1177","2006/2007","Ontario","Medicine",9217
+"1178","2007/2008","Ontario","Medicine",9107
+"1189","2007/2008","Ontario","Nursing",5999
+"1190","2008/2009","Ontario","Nursing",6336
+"1191","2009/2010","Ontario","Nursing",6650
+"1192","2010/2011","Ontario","Nursing",7020
+"1193","2011/2012","Ontario","Nursing",7235
+"1194","2012/2013","Ontario","Nursing",8026
+"1195","2013/2014","Ontario","Nursing",8183
+"1196","2014/2015","Ontario","Nursing",8252
+"1197","2015/2016","Ontario","Nursing",8514
+"1198","2016/2017","Ontario","Nursing",8742
+"1199","2017/2018","Ontario","Nursing",8938
+"1200","2008/2009","Ontario","Pharmacy",6121
+"1201","2009/2010","Ontario","Pharmacy",6366
+"1202","2010/2011","Ontario","Pharmacy",6621
+"1203","2011/2012","Ontario","Pharmacy",6885
+"1204","2012/2013","Ontario","Pharmacy",7117
+"1205","2013/2014","Ontario","Pharmacy",6987
+"1206","2014/2015","Ontario","Pharmacy",6836
+"1207","2015/2016","Ontario","Pharmacy",6733
+"1208","2016/2017","Ontario","Pharmacy",6737
+"1209","2017/2018","Ontario","Pharmacy",6684
+"1210","2007/2008","Ontario","Veterinary medicine",3802
+"1211","2008/2009","Ontario","Veterinary medicine",4031
+"1212","2009/2010","Ontario","Veterinary medicine",4202
+"1213","2010/2011","Ontario","Veterinary medicine",4328
+"1214","2011/2012","Ontario","Veterinary medicine",4457
+"1215","2012/2013","Ontario","Veterinary medicine",4591
+"1216","2013/2014","Ontario","Veterinary medicine",4683
+"1217","2014/2015","Ontario","Veterinary medicine",4777
+"1218","2015/2016","Ontario","Veterinary medicine",4824
+"1219","2016/2017","Ontario","Veterinary medicine",4969
+"1220","2017/2018","Ontario","Veterinary medicine",5143
+"1221","2006/2007","Ontario","Other health, parks, recreation and fitness",10367
+"1222","2007/2008","Ontario","Other health, parks, recreation and fitness",5617
+"1223","2008/2009","Ontario","Other health, parks, recreation and fitness",5745
+"1224","2009/2010","Ontario","Other health, parks, recreation and fitness",6273
+"1225","2010/2011","Ontario","Other health, parks, recreation and fitness",9516
+"1226","2011/2012","Ontario","Other health, parks, recreation and fitness",10248
+"1227","2012/2013","Ontario","Other health, parks, recreation and fitness",10726
+"1228","2013/2014","Ontario","Other health, parks, recreation and fitness",10976
+"1229","2014/2015","Ontario","Other health, parks, recreation and fitness",11402
+"1230","2015/2016","Ontario","Other health, parks, recreation and fitness",12117
+"1231","2016/2017","Ontario","Other health, parks, recreation and fitness",12585
+"1232","2017/2018","Ontario","Other health, parks, recreation and fitness",13053
+"1233","2016/2017","Ontario","Personal, protective and transportation services",3987
+"1234","2017/2018","Ontario","Personal, protective and transportation services",7761
+"1235","2006/2007","Manitoba","Education",9249
+"1236","2007/2008","Manitoba","Education",3765
+"1237","2008/2009","Manitoba","Education",3759
+"1238","2009/2010","Manitoba","Education",3996
+"1239","2010/2011","Manitoba","Education",4196
+"1240","2011/2012","Manitoba","Education",4238
+"1241","2012/2013","Manitoba","Education",4358
+"1242","2013/2014","Manitoba","Education",4406
+"1243","2014/2015","Manitoba","Education",4523
+"1244","2015/2016","Manitoba","Education",4665
+"1245","2016/2017","Manitoba","Education",4783
+"1246","2017/2018","Manitoba","Education",4845
+"1247","2006/2007","Manitoba","Visual and performing arts, and communications technologies",7254
+"1248","2007/2008","Manitoba","Visual and performing arts, and communications technologies",3759
+"1249","2008/2009","Manitoba","Visual and performing arts, and communications technologies",3759
+"1250","2009/2010","Manitoba","Visual and performing arts, and communications technologies",3961
+"1251","2010/2011","Manitoba","Visual and performing arts, and communications technologies",4159
+"1252","2011/2012","Manitoba","Visual and performing arts, and communications technologies",4200
+"1253","2012/2013","Manitoba","Visual and performing arts, and communications technologies",4356
+"1254","2013/2014","Manitoba","Visual and performing arts, and communications technologies",4421
+"1255","2014/2015","Manitoba","Visual and performing arts, and communications technologies",4516
+"1256","2015/2016","Manitoba","Visual and performing arts, and communications technologies",4606
+"1257","2016/2017","Manitoba","Visual and performing arts, and communications technologies",4713
+"1258","2017/2018","Manitoba","Visual and performing arts, and communications technologies",4774
+"1259","2006/2007","Manitoba","Humanities",8952
+"1260","2007/2008","Manitoba","Humanities",3759
+"1261","2008/2009","Manitoba","Humanities",3759
+"1262","2009/2010","Manitoba","Humanities",3928
+"1263","2010/2011","Manitoba","Humanities",4124
+"1264","2011/2012","Manitoba","Humanities",4165
+"1265","2012/2013","Manitoba","Humanities",4338
+"1266","2013/2014","Manitoba","Humanities",4351
+"1267","2014/2015","Manitoba","Humanities",4456
+"1268","2015/2016","Manitoba","Humanities",4786
+"1269","2016/2017","Manitoba","Humanities",4658
+"1270","2017/2018","Manitoba","Humanities",4719
+"1271","2007/2008","Manitoba","Social and behavioural sciences, and legal studies",3759
+"1272","2008/2009","Manitoba","Social and behavioural sciences, and legal studies",3759
+"1273","2009/2010","Manitoba","Social and behavioural sciences, and legal studies",3928
+"1274","2010/2011","Manitoba","Social and behavioural sciences, and legal studies",4124
+"1275","2011/2012","Manitoba","Social and behavioural sciences, and legal studies",4165
+"1276","2012/2013","Manitoba","Social and behavioural sciences, and legal studies",4283
+"1277","2013/2014","Manitoba","Social and behavioural sciences, and legal studies",4351
+"1278","2014/2015","Manitoba","Social and behavioural sciences, and legal studies",4456
+"1279","2015/2016","Manitoba","Social and behavioural sciences, and legal studies",4590
+"1280","2016/2017","Manitoba","Social and behavioural sciences, and legal studies",4700
+"1281","2017/2018","Manitoba","Social and behavioural sciences, and legal studies",4761
+"1282","2006/2007","Manitoba","Law",8112
+"1283","2007/2008","Manitoba","Law",3759
+"1284","2008/2009","Manitoba","Law",3759
+"1285","2009/2010","Manitoba","Law",3928
+"1286","2010/2011","Manitoba","Law",4124
+"1287","2011/2012","Manitoba","Law",4165
+"1288","2012/2013","Manitoba","Law",4283
+"1289","2013/2014","Manitoba","Law",4351
+"1290","2014/2015","Manitoba","Law",4456
+"1291","2015/2016","Manitoba","Law",4540
+"1292","2016/2017","Manitoba","Law",4595
+"1293","2017/2018","Manitoba","Law",4655
+"1294","2006/2007","Manitoba","Business, management and public administration",7791
+"1295","2007/2008","Manitoba","Business, management and public administration",3759
+"1296","2008/2009","Manitoba","Business, management and public administration",3759
+"1297","2009/2010","Manitoba","Business, management and public administration",3928
+"1298","2010/2011","Manitoba","Business, management and public administration",4124
+"1299","2011/2012","Manitoba","Business, management and public administration",4165
+"1300","2012/2013","Manitoba","Business, management and public administration",4283
+"1301","2013/2014","Manitoba","Business, management and public administration",4351
+"1302","2014/2015","Manitoba","Business, management and public administration",4456
+"1303","2015/2016","Manitoba","Business, management and public administration",4540
+"1304","2016/2017","Manitoba","Business, management and public administration",4595
+"1305","2017/2018","Manitoba","Business, management and public administration",4655
+"1306","2007/2008","Manitoba","Executive MBA",16266
+"1307","2008/2009","Manitoba","Executive MBA",16266
+"1317","2009/2010","Manitoba","Regular MBA",17019
+"1318","2010/2011","Manitoba","Regular MBA",17870
+"1319","2011/2012","Manitoba","Regular MBA",22338
+"1320","2012/2013","Manitoba","Regular MBA",27922
+"1321","2013/2014","Manitoba","Regular MBA",28369
+"1322","2014/2015","Manitoba","Regular MBA",29050
+"1323","2015/2016","Manitoba","Regular MBA",29602
+"1324","2016/2017","Manitoba","Regular MBA",29957
+"1325","2017/2018","Manitoba","Regular MBA",25292
+"1326","2006/2007","Manitoba","Physical and life sciences and technologies",7254
+"1327","2007/2008","Manitoba","Physical and life sciences and technologies",3759
+"1328","2008/2009","Manitoba","Physical and life sciences and technologies",3759
+"1329","2009/2010","Manitoba","Physical and life sciences and technologies",3928
+"1330","2010/2011","Manitoba","Physical and life sciences and technologies",4124
+"1331","2011/2012","Manitoba","Physical and life sciences and technologies",4165
+"1332","2012/2013","Manitoba","Physical and life sciences and technologies",4283
+"1333","2013/2014","Manitoba","Physical and life sciences and technologies",4351
+"1334","2014/2015","Manitoba","Physical and life sciences and technologies",4456
+"1335","2015/2016","Manitoba","Physical and life sciences and technologies",4616
+"1336","2016/2017","Manitoba","Physical and life sciences and technologies",4615
+"1337","2017/2018","Manitoba","Physical and life sciences and technologies",4676
+"1338","2006/2007","Manitoba","Mathematics, computer and information sciences",1986
+"1339","2007/2008","Manitoba","Mathematics, computer and information sciences",3759
+"1340","2008/2009","Manitoba","Mathematics, computer and information sciences",3759
+"1341","2009/2010","Manitoba","Mathematics, computer and information sciences",3928
+"1342","2010/2011","Manitoba","Mathematics, computer and information sciences",4124
+"1343","2011/2012","Manitoba","Mathematics, computer and information sciences",4165
+"1344","2012/2013","Manitoba","Mathematics, computer and information sciences",4283
+"1345","2013/2014","Manitoba","Mathematics, computer and information sciences",4351
+"1346","2014/2015","Manitoba","Mathematics, computer and information sciences",4456
+"1347","2015/2016","Manitoba","Mathematics, computer and information sciences",4540
+"1348","2016/2017","Manitoba","Mathematics, computer and information sciences",4698
+"1349","2017/2018","Manitoba","Mathematics, computer and information sciences",4759
+"1350","2006/2007","Manitoba","Engineering",8997
+"1351","2007/2008","Manitoba","Engineering",3759
+"1352","2008/2009","Manitoba","Engineering",3759
+"1353","2009/2010","Manitoba","Engineering",3928
+"1354","2010/2011","Manitoba","Engineering",4124
+"1355","2011/2012","Manitoba","Engineering",4165
+"1356","2012/2013","Manitoba","Engineering",4283
+"1357","2013/2014","Manitoba","Engineering",4351
+"1358","2014/2015","Manitoba","Engineering",4456
+"1359","2015/2016","Manitoba","Engineering",4540
+"1360","2016/2017","Manitoba","Engineering",4595
+"1361","2017/2018","Manitoba","Engineering",4655
+"1362","2006/2007","Manitoba","Architecture and related technologies",5500
+"1363","2007/2008","Manitoba","Architecture and related technologies",3759
+"1364","2008/2009","Manitoba","Architecture and related technologies",3759
+"1365","2009/2010","Manitoba","Architecture and related technologies",3928
+"1366","2010/2011","Manitoba","Architecture and related technologies",4124
+"1367","2011/2012","Manitoba","Architecture and related technologies",4165
+"1368","2012/2013","Manitoba","Architecture and related technologies",4283
+"1369","2013/2014","Manitoba","Architecture and related technologies",4351
+"1370","2014/2015","Manitoba","Architecture and related technologies",4456
+"1371","2015/2016","Manitoba","Architecture and related technologies",4540
+"1372","2016/2017","Manitoba","Architecture and related technologies",4595
+"1373","2017/2018","Manitoba","Architecture and related technologies",4655
+"1374","2006/2007","Manitoba","Agriculture, natural resources and conservation",9973
+"1375","2007/2008","Manitoba","Agriculture, natural resources and conservation",3759
+"1376","2008/2009","Manitoba","Agriculture, natural resources and conservation",3759
+"1377","2009/2010","Manitoba","Agriculture, natural resources and conservation",3928
+"1378","2010/2011","Manitoba","Agriculture, natural resources and conservation",4124
+"1379","2011/2012","Manitoba","Agriculture, natural resources and conservation",4165
+"1380","2012/2013","Manitoba","Agriculture, natural resources and conservation",4283
+"1381","2013/2014","Manitoba","Agriculture, natural resources and conservation",4351
+"1382","2014/2015","Manitoba","Agriculture, natural resources and conservation",4456
+"1383","2015/2016","Manitoba","Agriculture, natural resources and conservation",4540
+"1384","2016/2017","Manitoba","Agriculture, natural resources and conservation",4595
+"1385","2017/2018","Manitoba","Agriculture, natural resources and conservation",4655
+"1386","2007/2008","Manitoba","Dentistry",7798
+"1387","2008/2009","Manitoba","Dentistry",3759
+"1388","2009/2010","Manitoba","Dentistry",3928
+"1389","2010/2011","Manitoba","Dentistry",4124
+"1390","2011/2012","Manitoba","Dentistry",4165
+"1392","2013/2014","Manitoba","Dentistry",4351
+"1393","2014/2015","Manitoba","Dentistry",4456
+"1394","2015/2016","Manitoba","Dentistry",4540
+"1395","2016/2017","Manitoba","Dentistry",4595
+"1396","2017/2018","Manitoba","Dentistry",4655
+"1397","2006/2007","Manitoba","Medicine",7814
+"1398","2007/2008","Manitoba","Medicine",3759
+"1409","2007/2008","Manitoba","Nursing",3759
+"1410","2008/2009","Manitoba","Nursing",3759
+"1411","2009/2010","Manitoba","Nursing",3928
+"1412","2010/2011","Manitoba","Nursing",4124
+"1413","2011/2012","Manitoba","Nursing",4165
+"1414","2012/2013","Manitoba","Nursing",4283
+"1415","2013/2014","Manitoba","Nursing",4351
+"1416","2014/2015","Manitoba","Nursing",4681
+"1417","2015/2016","Manitoba","Nursing",4694
+"1418","2016/2017","Manitoba","Nursing",4897
+"1419","2017/2018","Manitoba","Nursing",4961
+"1420","2007/2008","Manitoba","Pharmacy",3759
+"1421","2008/2009","Manitoba","Pharmacy",3759
+"1422","2009/2010","Manitoba","Pharmacy",3928
+"1423","2010/2011","Manitoba","Pharmacy",4124
+"1424","2011/2012","Manitoba","Pharmacy",4165
+"1426","2013/2014","Manitoba","Pharmacy",4351
+"1427","2014/2015","Manitoba","Pharmacy",4456
+"1428","2015/2016","Manitoba","Pharmacy",4540
+"1429","2016/2017","Manitoba","Pharmacy",4595
+"1430","2017/2018","Manitoba","Pharmacy",4655
+"1431","2006/2007","Manitoba","Other health, parks, recreation and fitness",7320
+"1432","2007/2008","Manitoba","Other health, parks, recreation and fitness",3759
+"1433","2008/2009","Manitoba","Other health, parks, recreation and fitness",3759
+"1434","2009/2010","Manitoba","Other health, parks, recreation and fitness",3928
+"1435","2010/2011","Manitoba","Other health, parks, recreation and fitness",4124
+"1436","2011/2012","Manitoba","Other health, parks, recreation and fitness",4165
+"1437","2012/2013","Manitoba","Other health, parks, recreation and fitness",4283
+"1438","2013/2014","Manitoba","Other health, parks, recreation and fitness",4351
+"1439","2014/2015","Manitoba","Other health, parks, recreation and fitness",4456
+"1440","2015/2016","Manitoba","Other health, parks, recreation and fitness",4540
+"1441","2016/2017","Manitoba","Other health, parks, recreation and fitness",4595
+"1442","2017/2018","Manitoba","Other health, parks, recreation and fitness",4655
+"1443","2006/2007","Saskatchewan","Education",2227
+"1444","2007/2008","Saskatchewan","Education",2222
+"1445","2008/2009","Saskatchewan","Education",2222
+"1446","2009/2010","Saskatchewan","Education",2146
+"1447","2010/2011","Saskatchewan","Education",2243
+"1448","2011/2012","Saskatchewan","Education",2325
+"1449","2012/2013","Saskatchewan","Education",2891
+"1450","2013/2014","Saskatchewan","Education",3173
+"1451","2014/2015","Saskatchewan","Education",3261
+"1452","2015/2016","Saskatchewan","Education",3093
+"1453","2016/2017","Saskatchewan","Education",3138
+"1454","2017/2018","Saskatchewan","Education",3192
+"1455","2006/2007","Saskatchewan","Visual and performing arts, and communications technologies",3000
+"1456","2007/2008","Saskatchewan","Visual and performing arts, and communications technologies",3000
+"1457","2008/2009","Saskatchewan","Visual and performing arts, and communications technologies",3000
+"1458","2009/2010","Saskatchewan","Visual and performing arts, and communications technologies",2373
+"1459","2010/2011","Saskatchewan","Visual and performing arts, and communications technologies",2510
+"1460","2011/2012","Saskatchewan","Visual and performing arts, and communications technologies",2639
+"1461","2012/2013","Saskatchewan","Visual and performing arts, and communications technologies",3015
+"1462","2013/2014","Saskatchewan","Visual and performing arts, and communications technologies",3256
+"1463","2014/2015","Saskatchewan","Visual and performing arts, and communications technologies",3263
+"1464","2015/2016","Saskatchewan","Visual and performing arts, and communications technologies",2991
+"1465","2016/2017","Saskatchewan","Visual and performing arts, and communications technologies",3211
+"1466","2017/2018","Saskatchewan","Visual and performing arts, and communications technologies",3268
+"1467","2006/2007","Saskatchewan","Humanities",2225
+"1468","2007/2008","Saskatchewan","Humanities",2228
+"1469","2008/2009","Saskatchewan","Humanities",2228
+"1470","2009/2010","Saskatchewan","Humanities",2219
+"1471","2010/2011","Saskatchewan","Humanities",2329
+"1472","2011/2012","Saskatchewan","Humanities",2426
+"1473","2012/2013","Saskatchewan","Humanities",2619
+"1474","2013/2014","Saskatchewan","Humanities",2821
+"1475","2014/2015","Saskatchewan","Humanities",2954
+"1476","2015/2016","Saskatchewan","Humanities",2839
+"1477","2016/2017","Saskatchewan","Humanities",2863
+"1478","2017/2018","Saskatchewan","Humanities",2902
+"1479","2006/2007","Saskatchewan","Social and behavioural sciences, and legal studies",2331
+"1480","2007/2008","Saskatchewan","Social and behavioural sciences, and legal studies",2303
+"1481","2008/2009","Saskatchewan","Social and behavioural sciences, and legal studies",2303
+"1482","2009/2010","Saskatchewan","Social and behavioural sciences, and legal studies",2252
+"1483","2010/2011","Saskatchewan","Social and behavioural sciences, and legal studies",2367
+"1484","2011/2012","Saskatchewan","Social and behavioural sciences, and legal studies",2471
+"1485","2012/2013","Saskatchewan","Social and behavioural sciences, and legal studies",2783
+"1486","2013/2014","Saskatchewan","Social and behavioural sciences, and legal studies",3041
+"1487","2014/2015","Saskatchewan","Social and behavioural sciences, and legal studies",3192
+"1488","2015/2016","Saskatchewan","Social and behavioural sciences, and legal studies",3306
+"1489","2016/2017","Saskatchewan","Social and behavioural sciences, and legal studies",3521
+"1490","2017/2018","Saskatchewan","Social and behavioural sciences, and legal studies",3584
+"1491","2006/2007","Saskatchewan","Law",2000
+"1492","2007/2008","Saskatchewan","Law",2000
+"1493","2008/2009","Saskatchewan","Law",2000
+"1494","2009/2010","Saskatchewan","Law",2060
+"1495","2010/2011","Saskatchewan","Law",2142
+"1496","2011/2012","Saskatchewan","Law",2206
+"1497","2012/2013","Saskatchewan","Law",2298
+"1498","2013/2014","Saskatchewan","Law",2390
+"1499","2014/2015","Saskatchewan","Law",2486
+"1500","2015/2016","Saskatchewan","Law",2536
+"1501","2016/2017","Saskatchewan","Law",2600
+"1502","2017/2018","Saskatchewan","Law",2626
+"1503","2006/2007","Saskatchewan","Business, management and public administration",7571
+"1504","2007/2008","Saskatchewan","Business, management and public administration",8714
+"1505","2008/2009","Saskatchewan","Business, management and public administration",6997
+"1506","2009/2010","Saskatchewan","Business, management and public administration",4075
+"1507","2010/2011","Saskatchewan","Business, management and public administration",6954
+"1508","2011/2012","Saskatchewan","Business, management and public administration",6168
+"1509","2012/2013","Saskatchewan","Business, management and public administration",7735
+"1510","2013/2014","Saskatchewan","Business, management and public administration",6496
+"1511","2014/2015","Saskatchewan","Business, management and public administration",6619
+"1512","2015/2016","Saskatchewan","Business, management and public administration",5670
+"1513","2016/2017","Saskatchewan","Business, management and public administration",5480
+"1514","2017/2018","Saskatchewan","Business, management and public administration",5598
+"1515","2007/2008","Saskatchewan","Executive MBA",29000
+"1516","2008/2009","Saskatchewan","Executive MBA",29000
+"1517","2009/2010","Saskatchewan","Executive MBA",29000
+"1518","2010/2011","Saskatchewan","Executive MBA",34000
+"1519","2011/2012","Saskatchewan","Executive MBA",35000
+"1520","2012/2013","Saskatchewan","Executive MBA",39900
+"1521","2013/2014","Saskatchewan","Executive MBA",42600
+"1522","2014/2015","Saskatchewan","Executive MBA",46860
+"1523","2015/2016","Saskatchewan","Executive MBA",46860
+"1524","2016/2017","Saskatchewan","Executive MBA",49200
+"1525","2017/2018","Saskatchewan","Executive MBA",50435
+"1526","2007/2008","Saskatchewan","Regular MBA",6276
+"1527","2008/2009","Saskatchewan","Regular MBA",17805
+"1528","2009/2010","Saskatchewan","Regular MBA",21476
+"1529","2010/2011","Saskatchewan","Regular MBA",7710
+"1530","2011/2012","Saskatchewan","Regular MBA",7737
+"1531","2012/2013","Saskatchewan","Regular MBA",12434
+"1532","2013/2014","Saskatchewan","Regular MBA",13672
+"1533","2014/2015","Saskatchewan","Regular MBA",14877
+"1534","2015/2016","Saskatchewan","Regular MBA",13912
+"1535","2016/2017","Saskatchewan","Regular MBA",14501
+"1536","2017/2018","Saskatchewan","Regular MBA",14864
+"1537","2006/2007","Saskatchewan","Physical and life sciences and technologies",2148
+"1538","2007/2008","Saskatchewan","Physical and life sciences and technologies",2123
+"1539","2008/2009","Saskatchewan","Physical and life sciences and technologies",2123
+"1540","2009/2010","Saskatchewan","Physical and life sciences and technologies",2129
+"1541","2010/2011","Saskatchewan","Physical and life sciences and technologies",2223
+"1542","2011/2012","Saskatchewan","Physical and life sciences and technologies",2302
+"1543","2012/2013","Saskatchewan","Physical and life sciences and technologies",2538
+"1544","2013/2014","Saskatchewan","Physical and life sciences and technologies",2728
+"1545","2014/2015","Saskatchewan","Physical and life sciences and technologies",2739
+"1546","2015/2016","Saskatchewan","Physical and life sciences and technologies",2749
+"1547","2016/2017","Saskatchewan","Physical and life sciences and technologies",2818
+"1548","2017/2018","Saskatchewan","Physical and life sciences and technologies",2855
+"1549","2006/2007","Saskatchewan","Mathematics, computer and information sciences",2536
+"1550","2007/2008","Saskatchewan","Mathematics, computer and information sciences",2441
+"1551","2008/2009","Saskatchewan","Mathematics, computer and information sciences",2441
+"1552","2009/2010","Saskatchewan","Mathematics, computer and information sciences",2293
+"1553","2010/2011","Saskatchewan","Mathematics, computer and information sciences",2415
+"1554","2011/2012","Saskatchewan","Mathematics, computer and information sciences",2528
+"1555","2012/2013","Saskatchewan","Mathematics, computer and information sciences",2853
+"1556","2013/2014","Saskatchewan","Mathematics, computer and information sciences",2914
+"1557","2014/2015","Saskatchewan","Mathematics, computer and information sciences",3103
+"1558","2015/2016","Saskatchewan","Mathematics, computer and information sciences",2935
+"1559","2016/2017","Saskatchewan","Mathematics, computer and information sciences",3026
+"1560","2017/2018","Saskatchewan","Mathematics, computer and information sciences",3075
+"1561","2006/2007","Saskatchewan","Engineering",2276
+"1562","2007/2008","Saskatchewan","Engineering",2175
+"1563","2008/2009","Saskatchewan","Engineering",2175
+"1564","2009/2010","Saskatchewan","Engineering",2156
+"1565","2010/2011","Saskatchewan","Engineering",2255
+"1566","2011/2012","Saskatchewan","Engineering",2339
+"1567","2012/2013","Saskatchewan","Engineering",2648
+"1568","2013/2014","Saskatchewan","Engineering",2879
+"1569","2014/2015","Saskatchewan","Engineering",3317
+"1570","2015/2016","Saskatchewan","Engineering",3410
+"1571","2016/2017","Saskatchewan","Engineering",3522
+"1572","2017/2018","Saskatchewan","Engineering",3580
+"1573","2006/2007","Saskatchewan","Agriculture, natural resources and conservation",2000
+"1574","2007/2008","Saskatchewan","Agriculture, natural resources and conservation",2000
+"1575","2008/2009","Saskatchewan","Agriculture, natural resources and conservation",2000
+"1576","2009/2010","Saskatchewan","Agriculture, natural resources and conservation",2060
+"1577","2010/2011","Saskatchewan","Agriculture, natural resources and conservation",2142
+"1578","2011/2012","Saskatchewan","Agriculture, natural resources and conservation",2206
+"1579","2012/2013","Saskatchewan","Agriculture, natural resources and conservation",2828
+"1580","2013/2014","Saskatchewan","Agriculture, natural resources and conservation",2390
+"1581","2014/2015","Saskatchewan","Agriculture, natural resources and conservation",2486
+"1582","2015/2016","Saskatchewan","Agriculture, natural resources and conservation",2536
+"1583","2016/2017","Saskatchewan","Agriculture, natural resources and conservation",2600
+"1584","2017/2018","Saskatchewan","Agriculture, natural resources and conservation",2626
+"1585","2006/2007","Saskatchewan","Medicine",2000
+"1586","2007/2008","Saskatchewan","Medicine",2000
+"1587","2008/2009","Saskatchewan","Medicine",2000
+"1597","2007/2008","Saskatchewan","Nursing",4000
+"1598","2008/2009","Saskatchewan","Nursing",2000
+"1599","2009/2010","Saskatchewan","Nursing",2060
+"1600","2010/2011","Saskatchewan","Nursing",2142
+"1601","2011/2012","Saskatchewan","Nursing",2206
+"1602","2012/2013","Saskatchewan","Nursing",2298
+"1603","2013/2014","Saskatchewan","Nursing",2390
+"1604","2014/2015","Saskatchewan","Nursing",2486
+"1605","2015/2016","Saskatchewan","Nursing",2536
+"1606","2016/2017","Saskatchewan","Nursing",3336
+"1607","2017/2018","Saskatchewan","Nursing",3389
+"1608","2013/2014","Saskatchewan","Pharmacy",2390
+"1609","2014/2015","Saskatchewan","Pharmacy",2486
+"1610","2015/2016","Saskatchewan","Pharmacy",2536
+"1611","2016/2017","Saskatchewan","Pharmacy",2600
+"1612","2017/2018","Saskatchewan","Pharmacy",2626
+"1613","2007/2008","Saskatchewan","Veterinary medicine",2072
+"1614","2008/2009","Saskatchewan","Veterinary medicine",3140
+"1615","2009/2010","Saskatchewan","Veterinary medicine",3140
+"1616","2010/2011","Saskatchewan","Veterinary medicine",3140
+"1617","2011/2012","Saskatchewan","Veterinary medicine",2206
+"1618","2012/2013","Saskatchewan","Veterinary medicine",2298
+"1619","2013/2014","Saskatchewan","Veterinary medicine",2390
+"1620","2014/2015","Saskatchewan","Veterinary medicine",2486
+"1621","2015/2016","Saskatchewan","Veterinary medicine",2536
+"1622","2016/2017","Saskatchewan","Veterinary medicine",2600
+"1623","2017/2018","Saskatchewan","Veterinary medicine",2626
+"1624","2006/2007","Saskatchewan","Other health, parks, recreation and fitness",5476
+"1626","2008/2009","Saskatchewan","Other health, parks, recreation and fitness",3823
+"1627","2009/2010","Saskatchewan","Other health, parks, recreation and fitness",11058
+"1628","2010/2011","Saskatchewan","Other health, parks, recreation and fitness",11650
+"1629","2011/2012","Saskatchewan","Other health, parks, recreation and fitness",12003
+"1630","2012/2013","Saskatchewan","Other health, parks, recreation and fitness",12134
+"1631","2013/2014","Saskatchewan","Other health, parks, recreation and fitness",5922
+"1632","2014/2015","Saskatchewan","Other health, parks, recreation and fitness",6178
+"1633","2015/2016","Saskatchewan","Other health, parks, recreation and fitness",6303
+"1634","2016/2017","Saskatchewan","Other health, parks, recreation and fitness",6421
+"1635","2017/2018","Saskatchewan","Other health, parks, recreation and fitness",6612
+"1636","2006/2007","Alberta","Education",5361
+"1637","2007/2008","Alberta","Education",4778
+"1638","2008/2009","Alberta","Education",5102
+"1639","2009/2010","Alberta","Education",5061
+"1640","2010/2011","Alberta","Education",5150
+"1641","2011/2012","Alberta","Education",5138
+"1642","2012/2013","Alberta","Education",5062
+"1643","2013/2014","Alberta","Education",5317
+"1644","2014/2015","Alberta","Education",5570
+"1645","2015/2016","Alberta","Education",4757
+"1646","2016/2017","Alberta","Education",4528
+"1647","2017/2018","Alberta","Education",4528
+"1648","2006/2007","Alberta","Visual and performing arts, and communications technologies",5152
+"1649","2007/2008","Alberta","Visual and performing arts, and communications technologies",4808
+"1650","2008/2009","Alberta","Visual and performing arts, and communications technologies",5746
+"1651","2009/2010","Alberta","Visual and performing arts, and communications technologies",6231
+"1652","2010/2011","Alberta","Visual and performing arts, and communications technologies",6559
+"1653","2011/2012","Alberta","Visual and performing arts, and communications technologies",6242
+"1654","2012/2013","Alberta","Visual and performing arts, and communications technologies",5881
+"1655","2013/2014","Alberta","Visual and performing arts, and communications technologies",6162
+"1656","2014/2015","Alberta","Visual and performing arts, and communications technologies",5196
+"1657","2015/2016","Alberta","Visual and performing arts, and communications technologies",4064
+"1658","2016/2017","Alberta","Visual and performing arts, and communications technologies",4101
+"1659","2017/2018","Alberta","Visual and performing arts, and communications technologies",4101
+"1660","2006/2007","Alberta","Humanities",4099
+"1661","2007/2008","Alberta","Humanities",3921
+"1662","2008/2009","Alberta","Humanities",4129
+"1663","2009/2010","Alberta","Humanities",4215
+"1664","2010/2011","Alberta","Humanities",4278
+"1665","2011/2012","Alberta","Humanities",4292
+"1666","2012/2013","Alberta","Humanities",4429
+"1667","2013/2014","Alberta","Humanities",4441
+"1668","2014/2015","Alberta","Humanities",4521
+"1669","2015/2016","Alberta","Humanities",4055
+"1670","2016/2017","Alberta","Humanities",4059
+"1671","2017/2018","Alberta","Humanities",4059
+"1672","2006/2007","Alberta","Social and behavioural sciences, and legal studies",4324
+"1673","2007/2008","Alberta","Social and behavioural sciences, and legal studies",4255
+"1674","2008/2009","Alberta","Social and behavioural sciences, and legal studies",4449
+"1675","2009/2010","Alberta","Social and behavioural sciences, and legal studies",4787
+"1676","2010/2011","Alberta","Social and behavioural sciences, and legal studies",4867
+"1677","2011/2012","Alberta","Social and behavioural sciences, and legal studies",4872
+"1678","2012/2013","Alberta","Social and behavioural sciences, and legal studies",4933
+"1679","2013/2014","Alberta","Social and behavioural sciences, and legal studies",5429
+"1680","2014/2015","Alberta","Social and behavioural sciences, and legal studies",5737
+"1681","2015/2016","Alberta","Social and behavioural sciences, and legal studies",5646
+"1682","2016/2017","Alberta","Social and behavioural sciences, and legal studies",5809
+"1683","2017/2018","Alberta","Social and behavioural sciences, and legal studies",5809
+"1684","2006/2007","Alberta","Law",9304
+"1685","2007/2008","Alberta","Law",9096
+"1686","2008/2009","Alberta","Law",7392
+"1687","2009/2010","Alberta","Law",4801
+"1688","2010/2011","Alberta","Law",4873
+"1689","2011/2012","Alberta","Law",4889
+"1690","2012/2013","Alberta","Law",5026
+"1691","2013/2014","Alberta","Law",4586
+"1692","2014/2015","Alberta","Law",4706
+"1693","2015/2016","Alberta","Law",4080
+"1694","2016/2017","Alberta","Law",4147
+"1695","2017/2018","Alberta","Law",4147
+"1696","2006/2007","Alberta","Business, management and public administration",16260
+"1697","2007/2008","Alberta","Business, management and public administration",5924
+"1698","2008/2009","Alberta","Business, management and public administration",5048
+"1699","2009/2010","Alberta","Business, management and public administration",5231
+"1700","2010/2011","Alberta","Business, management and public administration",5304
+"1701","2011/2012","Alberta","Business, management and public administration",5316
+"1702","2012/2013","Alberta","Business, management and public administration",5374
+"1703","2013/2014","Alberta","Business, management and public administration",5460
+"1704","2014/2015","Alberta","Business, management and public administration",18001
+"1705","2015/2016","Alberta","Business, management and public administration",16852
+"1706","2016/2017","Alberta","Business, management and public administration",16835
+"1707","2017/2018","Alberta","Business, management and public administration",16835
+"1708","2007/2008","Alberta","Executive MBA",23654
+"1709","2008/2009","Alberta","Executive MBA",25990
+"1710","2009/2010","Alberta","Executive MBA",26939
+"1711","2010/2011","Alberta","Executive MBA",27374
+"1712","2011/2012","Alberta","Executive MBA",27904
+"1713","2012/2013","Alberta","Executive MBA",28255
+"1714","2013/2014","Alberta","Executive MBA",28279
+"1715","2014/2015","Alberta","Executive MBA",28685
+"1716","2015/2016","Alberta","Executive MBA",30491
+"1717","2016/2017","Alberta","Executive MBA",30443
+"1718","2017/2018","Alberta","Executive MBA",30770
+"1719","2007/2008","Alberta","Regular MBA",10228
+"1720","2008/2009","Alberta","Regular MBA",10776
+"1721","2009/2010","Alberta","Regular MBA",11286
+"1722","2010/2011","Alberta","Regular MBA",11455
+"1723","2011/2012","Alberta","Regular MBA",11929
+"1724","2012/2013","Alberta","Regular MBA",11685
+"1725","2013/2014","Alberta","Regular MBA",11663
+"1726","2014/2015","Alberta","Regular MBA",11748
+"1727","2015/2016","Alberta","Regular MBA",11855
+"1728","2016/2017","Alberta","Regular MBA",11760
+"1729","2017/2018","Alberta","Regular MBA",11760
+"1730","2006/2007","Alberta","Physical and life sciences and technologies",3857
+"1731","2007/2008","Alberta","Physical and life sciences and technologies",3834
+"1732","2008/2009","Alberta","Physical and life sciences and technologies",4162
+"1733","2009/2010","Alberta","Physical and life sciences and technologies",4346
+"1734","2010/2011","Alberta","Physical and life sciences and technologies",4410
+"1735","2011/2012","Alberta","Physical and life sciences and technologies",4425
+"1736","2012/2013","Alberta","Physical and life sciences and technologies",4630
+"1737","2013/2014","Alberta","Physical and life sciences and technologies",4669
+"1738","2014/2015","Alberta","Physical and life sciences and technologies",4749
+"1739","2015/2016","Alberta","Physical and life sciences and technologies",4233
+"1740","2016/2017","Alberta","Physical and life sciences and technologies",4208
+"1741","2017/2018","Alberta","Physical and life sciences and technologies",4208
+"1742","2006/2007","Alberta","Mathematics, computer and information sciences",4872
+"1743","2007/2008","Alberta","Mathematics, computer and information sciences",3966
+"1744","2008/2009","Alberta","Mathematics, computer and information sciences",4505
+"1745","2009/2010","Alberta","Mathematics, computer and information sciences",4814
+"1746","2010/2011","Alberta","Mathematics, computer and information sciences",4888
+"1747","2011/2012","Alberta","Mathematics, computer and information sciences",4823
+"1748","2012/2013","Alberta","Mathematics, computer and information sciences",4679
+"1749","2013/2014","Alberta","Mathematics, computer and information sciences",4639
+"1750","2014/2015","Alberta","Mathematics, computer and information sciences",4667
+"1751","2015/2016","Alberta","Mathematics, computer and information sciences",4802
+"1752","2016/2017","Alberta","Mathematics, computer and information sciences",4474
+"1753","2017/2018","Alberta","Mathematics, computer and information sciences",4474
+"1754","2006/2007","Alberta","Engineering",4218
+"1755","2007/2008","Alberta","Engineering",4470
+"1756","2008/2009","Alberta","Engineering",4211
+"1757","2009/2010","Alberta","Engineering",4386
+"1758","2010/2011","Alberta","Engineering",4452
+"1759","2011/2012","Alberta","Engineering",4467
+"1760","2012/2013","Alberta","Engineering",4604
+"1761","2013/2014","Alberta","Engineering",4601
+"1762","2014/2015","Alberta","Engineering",4590
+"1763","2015/2016","Alberta","Engineering",4033
+"1764","2016/2017","Alberta","Engineering",4026
+"1765","2017/2018","Alberta","Engineering",4026
+"1766","2006/2007","Alberta","Architecture and related technologies",5408
+"1767","2007/2008","Alberta","Architecture and related technologies",4922
+"1768","2008/2009","Alberta","Architecture and related technologies",5148
+"1769","2009/2010","Alberta","Architecture and related technologies",7021
+"1770","2010/2011","Alberta","Architecture and related technologies",7021
+"1771","2011/2012","Alberta","Architecture and related technologies",7047
+"1772","2012/2013","Alberta","Architecture and related technologies",7147
+"1773","2013/2014","Alberta","Architecture and related technologies",7147
+"1774","2014/2015","Alberta","Architecture and related technologies",7218
+"1775","2015/2016","Alberta","Architecture and related technologies",7218
+"1776","2016/2017","Alberta","Architecture and related technologies",7218
+"1777","2017/2018","Alberta","Architecture and related technologies",7218
+"1778","2006/2007","Alberta","Agriculture, natural resources and conservation",3282
+"1779","2007/2008","Alberta","Agriculture, natural resources and conservation",3365
+"1780","2008/2009","Alberta","Agriculture, natural resources and conservation",3486
+"1781","2009/2010","Alberta","Agriculture, natural resources and conservation",3612
+"1782","2010/2011","Alberta","Agriculture, natural resources and conservation",3667
+"1783","2011/2012","Alberta","Agriculture, natural resources and conservation",3679
+"1784","2012/2013","Alberta","Agriculture, natural resources and conservation",3771
+"1785","2013/2014","Alberta","Agriculture, natural resources and conservation",3765
+"1786","2014/2015","Alberta","Agriculture, natural resources and conservation",3815
+"1787","2015/2016","Alberta","Agriculture, natural resources and conservation",3826
+"1788","2016/2017","Alberta","Agriculture, natural resources and conservation",3822
+"1789","2017/2018","Alberta","Agriculture, natural resources and conservation",3822
+"1790","2008/2009","Alberta","Dentistry",3449
+"1791","2009/2010","Alberta","Dentistry",3589
+"1792","2010/2011","Alberta","Dentistry",3643
+"1793","2011/2012","Alberta","Dentistry",3655
+"1800","2006/2007","Alberta","Medicine",5481
+"1801","2007/2008","Alberta","Medicine",9358
+"1812","2007/2008","Alberta","Nursing",4904
+"1813","2008/2009","Alberta","Nursing",5559
+"1814","2009/2010","Alberta","Nursing",5740
+"1815","2010/2011","Alberta","Nursing",5822
+"1816","2011/2012","Alberta","Nursing",6037
+"1817","2012/2013","Alberta","Nursing",6531
+"1818","2013/2014","Alberta","Nursing",7235
+"1819","2014/2015","Alberta","Nursing",7577
+"1820","2015/2016","Alberta","Nursing",10555
+"1821","2016/2017","Alberta","Nursing",10775
+"1822","2017/2018","Alberta","Nursing",10775
+"1823","2009/2010","Alberta","Pharmacy",3589
+"1824","2010/2011","Alberta","Pharmacy",3643
+"1825","2011/2012","Alberta","Pharmacy",3655
+"1827","2013/2014","Alberta","Pharmacy",3708
+"1828","2014/2015","Alberta","Pharmacy",3745
+"1829","2015/2016","Alberta","Pharmacy",3745
+"1830","2016/2017","Alberta","Pharmacy",3745
+"1831","2017/2018","Alberta","Pharmacy",3745
+"1832","2013/2014","Alberta","Veterinary medicine",5538
+"1833","2014/2015","Alberta","Veterinary medicine",5594
+"1834","2015/2016","Alberta","Veterinary medicine",3611
+"1835","2016/2017","Alberta","Veterinary medicine",3611
+"1836","2017/2018","Alberta","Veterinary medicine",3611
+"1837","2006/2007","Alberta","Other health, parks, recreation and fitness",3432
+"1838","2007/2008","Alberta","Other health, parks, recreation and fitness",3422
+"1839","2008/2009","Alberta","Other health, parks, recreation and fitness",3890
+"1840","2009/2010","Alberta","Other health, parks, recreation and fitness",3948
+"1841","2010/2011","Alberta","Other health, parks, recreation and fitness",4007
+"1842","2011/2012","Alberta","Other health, parks, recreation and fitness",4021
+"1843","2012/2013","Alberta","Other health, parks, recreation and fitness",4070
+"1844","2013/2014","Alberta","Other health, parks, recreation and fitness",4076
+"1845","2014/2015","Alberta","Other health, parks, recreation and fitness",4098
+"1846","2015/2016","Alberta","Other health, parks, recreation and fitness",3863
+"1847","2016/2017","Alberta","Other health, parks, recreation and fitness",3853
+"1848","2017/2018","Alberta","Other health, parks, recreation and fitness",3853
+"1849","2006/2007","British Columbia","Education",6708
+"1850","2007/2008","British Columbia","Education",5983
+"1851","2008/2009","British Columbia","Education",6467
+"1852","2009/2010","British Columbia","Education",5240
+"1853","2010/2011","British Columbia","Education",6655
+"1854","2011/2012","British Columbia","Education",6792
+"1855","2012/2013","British Columbia","Education",6152
+"1856","2013/2014","British Columbia","Education",6233
+"1857","2014/2015","British Columbia","Education",6612
+"1858","2015/2016","British Columbia","Education",6717
+"1859","2016/2017","British Columbia","Education",6706
+"1860","2017/2018","British Columbia","Education",6839
+"1861","2006/2007","British Columbia","Visual and performing arts, and communications technologies",3122
+"1862","2007/2008","British Columbia","Visual and performing arts, and communications technologies",3649
+"1863","2008/2009","British Columbia","Visual and performing arts, and communications technologies",4458
+"1864","2009/2010","British Columbia","Visual and performing arts, and communications technologies",4470
+"1865","2010/2011","British Columbia","Visual and performing arts, and communications technologies",4581
+"1866","2011/2012","British Columbia","Visual and performing arts, and communications technologies",4276
+"1867","2012/2013","British Columbia","Visual and performing arts, and communications technologies",4948
+"1868","2013/2014","British Columbia","Visual and performing arts, and communications technologies",4485
+"1869","2014/2015","British Columbia","Visual and performing arts, and communications technologies",4455
+"1870","2015/2016","British Columbia","Visual and performing arts, and communications technologies",4543
+"1871","2016/2017","British Columbia","Visual and performing arts, and communications technologies",4615
+"1872","2017/2018","British Columbia","Visual and performing arts, and communications technologies",4641
+"1873","2006/2007","British Columbia","Humanities",3411
+"1874","2007/2008","British Columbia","Humanities",3436
+"1875","2008/2009","British Columbia","Humanities",3896
+"1876","2009/2010","British Columbia","Humanities",3700
+"1877","2010/2011","British Columbia","Humanities",4128
+"1878","2011/2012","British Columbia","Humanities",4184
+"1879","2012/2013","British Columbia","Humanities",4282
+"1880","2013/2014","British Columbia","Humanities",4393
+"1881","2014/2015","British Columbia","Humanities",4486
+"1882","2015/2016","British Columbia","Humanities",4573
+"1883","2016/2017","British Columbia","Humanities",4625
+"1884","2017/2018","British Columbia","Humanities",4717
+"1885","2006/2007","British Columbia","Social and behavioural sciences, and legal studies",4885
+"1886","2007/2008","British Columbia","Social and behavioural sciences, and legal studies",5182
+"1887","2008/2009","British Columbia","Social and behavioural sciences, and legal studies",5648
+"1888","2009/2010","British Columbia","Social and behavioural sciences, and legal studies",4839
+"1889","2010/2011","British Columbia","Social and behavioural sciences, and legal studies",6016
+"1890","2011/2012","British Columbia","Social and behavioural sciences, and legal studies",5921
+"1891","2012/2013","British Columbia","Social and behavioural sciences, and legal studies",5585
+"1892","2013/2014","British Columbia","Social and behavioural sciences, and legal studies",5916
+"1893","2014/2015","British Columbia","Social and behavioural sciences, and legal studies",6077
+"1894","2015/2016","British Columbia","Social and behavioural sciences, and legal studies",6244
+"1895","2016/2017","British Columbia","Social and behavioural sciences, and legal studies",6819
+"1896","2017/2018","British Columbia","Social and behavioural sciences, and legal studies",6955
+"1897","2006/2007","British Columbia","Law",3035
+"1898","2007/2008","British Columbia","Law",14391
+"1899","2008/2009","British Columbia","Law",15540
+"1900","2009/2010","British Columbia","Law",15850
+"1901","2010/2011","British Columbia","Law",16167
+"1902","2011/2012","British Columbia","Law",16209
+"1903","2012/2013","British Columbia","Law",16252
+"1904","2013/2014","British Columbia","Law",17905
+"1905","2014/2015","British Columbia","Law",6669
+"1906","2015/2016","British Columbia","Law",7922
+"1907","2016/2017","British Columbia","Law",10234
+"1908","2017/2018","British Columbia","Law",10438
+"1909","2006/2007","British Columbia","Business, management and public administration",14288
+"1910","2007/2008","British Columbia","Business, management and public administration",6443
+"1911","2008/2009","British Columbia","Business, management and public administration",9199
+"1912","2009/2010","British Columbia","Business, management and public administration",8467
+"1913","2010/2011","British Columbia","Business, management and public administration",12509
+"1914","2011/2012","British Columbia","Business, management and public administration",11796
+"1915","2012/2013","British Columbia","Business, management and public administration",11814
+"1916","2013/2014","British Columbia","Business, management and public administration",11424
+"1917","2014/2015","British Columbia","Business, management and public administration",10675
+"1918","2015/2016","British Columbia","Business, management and public administration",11234
+"1919","2016/2017","British Columbia","Business, management and public administration",10319
+"1920","2017/2018","British Columbia","Business, management and public administration",10496
+"1921","2007/2008","British Columbia","Executive MBA",19764
+"1922","2008/2009","British Columbia","Executive MBA",24214
+"1923","2009/2010","British Columbia","Executive MBA",18862
+"1924","2010/2011","British Columbia","Executive MBA",21666
+"1925","2011/2012","British Columbia","Executive MBA",21923
+"1926","2012/2013","British Columbia","Executive MBA",25408
+"1927","2013/2014","British Columbia","Executive MBA",18907
+"1928","2014/2015","British Columbia","Executive MBA",19101
+"1929","2015/2016","British Columbia","Executive MBA",19230
+"1930","2016/2017","British Columbia","Executive MBA",18009
+"1931","2017/2018","British Columbia","Executive MBA",18369
+"1932","2007/2008","British Columbia","Regular MBA",17098
+"1933","2008/2009","British Columbia","Regular MBA",21858
+"1934","2009/2010","British Columbia","Regular MBA",12969
+"1935","2010/2011","British Columbia","Regular MBA",12843
+"1936","2011/2012","British Columbia","Regular MBA",20278
+"1937","2012/2013","British Columbia","Regular MBA",19022
+"1938","2013/2014","British Columbia","Regular MBA",22475
+"1939","2014/2015","British Columbia","Regular MBA",23815
+"1940","2015/2016","British Columbia","Regular MBA",25423
+"1941","2016/2017","British Columbia","Regular MBA",26101
+"1942","2017/2018","British Columbia","Regular MBA",26623
+"1943","2006/2007","British Columbia","Physical and life sciences and technologies",3379
+"1944","2007/2008","British Columbia","Physical and life sciences and technologies",3286
+"1945","2008/2009","British Columbia","Physical and life sciences and technologies",3872
+"1946","2009/2010","British Columbia","Physical and life sciences and technologies",8717
+"1947","2010/2011","British Columbia","Physical and life sciences and technologies",9182
+"1948","2011/2012","British Columbia","Physical and life sciences and technologies",9366
+"1949","2012/2013","British Columbia","Physical and life sciences and technologies",9546
+"1950","2013/2014","British Columbia","Physical and life sciences and technologies",9673
+"1951","2014/2015","British Columbia","Physical and life sciences and technologies",9980
+"1952","2015/2016","British Columbia","Physical and life sciences and technologies",11011
+"1953","2016/2017","British Columbia","Physical and life sciences and technologies",10963
+"1954","2017/2018","British Columbia","Physical and life sciences and technologies",11182
+"1955","2006/2007","British Columbia","Mathematics, computer and information sciences",3918
+"1956","2007/2008","British Columbia","Mathematics, computer and information sciences",4056
+"1957","2008/2009","British Columbia","Mathematics, computer and information sciences",4559
+"1958","2009/2010","British Columbia","Mathematics, computer and information sciences",6860
+"1959","2010/2011","British Columbia","Mathematics, computer and information sciences",7386
+"1960","2011/2012","British Columbia","Mathematics, computer and information sciences",7676
+"1961","2012/2013","British Columbia","Mathematics, computer and information sciences",8009
+"1962","2013/2014","British Columbia","Mathematics, computer and information sciences",9143
+"1963","2014/2015","British Columbia","Mathematics, computer and information sciences",9391
+"1964","2015/2016","British Columbia","Mathematics, computer and information sciences",9473
+"1965","2016/2017","British Columbia","Mathematics, computer and information sciences",13358
+"1966","2017/2018","British Columbia","Mathematics, computer and information sciences",13729
+"1967","2006/2007","British Columbia","Engineering",4003
+"1968","2007/2008","British Columbia","Engineering",3839
+"1969","2008/2009","British Columbia","Engineering",4689
+"1970","2009/2010","British Columbia","Engineering",8114
+"1971","2010/2011","British Columbia","Engineering",8418
+"1972","2011/2012","British Columbia","Engineering",8936
+"1973","2012/2013","British Columbia","Engineering",9065
+"1974","2013/2014","British Columbia","Engineering",9295
+"1975","2014/2015","British Columbia","Engineering",9881
+"1976","2015/2016","British Columbia","Engineering",14184
+"1977","2016/2017","British Columbia","Engineering",15122
+"1978","2017/2018","British Columbia","Engineering",15425
+"1979","2006/2007","British Columbia","Architecture and related technologies",4332
+"1980","2007/2008","British Columbia","Architecture and related technologies",4419
+"1981","2008/2009","British Columbia","Architecture and related technologies",4425
+"1982","2009/2010","British Columbia","Architecture and related technologies",4513
+"1983","2010/2011","British Columbia","Architecture and related technologies",4604
+"1984","2011/2012","British Columbia","Architecture and related technologies",4696
+"1985","2012/2013","British Columbia","Architecture and related technologies",4789
+"1986","2013/2014","British Columbia","Architecture and related technologies",4885
+"1987","2014/2015","British Columbia","Architecture and related technologies",4983
+"1988","2015/2016","British Columbia","Architecture and related technologies",5083
+"1989","2016/2017","British Columbia","Architecture and related technologies",6369
+"1990","2017/2018","British Columbia","Architecture and related technologies",6497
+"1991","2006/2007","British Columbia","Agriculture, natural resources and conservation",3035
+"1992","2007/2008","British Columbia","Agriculture, natural resources and conservation",6678
+"1993","2008/2009","British Columbia","Agriculture, natural resources and conservation",6228
+"1994","2009/2010","British Columbia","Agriculture, natural resources and conservation",8351
+"1995","2010/2011","British Columbia","Agriculture, natural resources and conservation",8989
+"1996","2011/2012","British Columbia","Agriculture, natural resources and conservation",9168
+"1997","2012/2013","British Columbia","Agriculture, natural resources and conservation",9125
+"1998","2013/2014","British Columbia","Agriculture, natural resources and conservation",9113
+"1999","2014/2015","British Columbia","Agriculture, natural resources and conservation",9246
+"2000","2015/2016","British Columbia","Agriculture, natural resources and conservation",9366
+"2001","2016/2017","British Columbia","Agriculture, natural resources and conservation",8712
+"2002","2017/2018","British Columbia","Agriculture, natural resources and conservation",8886
+"2003","2007/2008","British Columbia","Dentistry",3095
+"2004","2008/2009","British Columbia","Dentistry",4098
+"2005","2009/2010","British Columbia","Dentistry",4139
+"2006","2010/2011","British Columbia","Dentistry",9819
+"2007","2011/2012","British Columbia","Dentistry",10016
+"2009","2013/2014","British Columbia","Dentistry",10420
+"2010","2014/2015","British Columbia","Dentistry",10628
+"2011","2015/2016","British Columbia","Dentistry",10841
+"2012","2016/2017","British Columbia","Dentistry",11058
+"2013","2017/2018","British Columbia","Dentistry",11279
+"2014","2007/2008","British Columbia","Medicine",3095
+"2015","2008/2009","British Columbia","Medicine",4178
+"2025","2007/2008","British Columbia","Nursing",3375
+"2026","2008/2009","British Columbia","Nursing",4088
+"2027","2009/2010","British Columbia","Nursing",4182
+"2028","2010/2011","British Columbia","Nursing",4265
+"2029","2011/2012","British Columbia","Nursing",4351
+"2030","2012/2013","British Columbia","Nursing",4458
+"2031","2013/2014","British Columbia","Nursing",4537
+"2032","2014/2015","British Columbia","Nursing",4781
+"2033","2015/2016","British Columbia","Nursing",4821
+"2034","2016/2017","British Columbia","Nursing",4942
+"2035","2017/2018","British Columbia","Nursing",5074
+"2036","2008/2009","British Columbia","Pharmacy",24387
+"2037","2009/2010","British Columbia","Pharmacy",14487
+"2038","2010/2011","British Columbia","Pharmacy",14776
+"2039","2011/2012","British Columbia","Pharmacy",15072
+"2041","2013/2014","British Columbia","Pharmacy",24656
+"2042","2014/2015","British Columbia","Pharmacy",25149
+"2043","2015/2016","British Columbia","Pharmacy",25652
+"2044","2016/2017","British Columbia","Pharmacy",26165
+"2045","2017/2018","British Columbia","Pharmacy",4802
+"2046","2006/2007","British Columbia","Other health, parks, recreation and fitness",3469
+"2047","2007/2008","British Columbia","Other health, parks, recreation and fitness",4186
+"2048","2008/2009","British Columbia","Other health, parks, recreation and fitness",5587
+"2049","2009/2010","British Columbia","Other health, parks, recreation and fitness",4557
+"2050","2010/2011","British Columbia","Other health, parks, recreation and fitness",5003
+"2051","2011/2012","British Columbia","Other health, parks, recreation and fitness",7514
+"2052","2012/2013","British Columbia","Other health, parks, recreation and fitness",7767
+"2053","2013/2014","British Columbia","Other health, parks, recreation and fitness",8001
+"2054","2014/2015","British Columbia","Other health, parks, recreation and fitness",7893
+"2055","2015/2016","British Columbia","Other health, parks, recreation and fitness",8002
+"2056","2016/2017","British Columbia","Other health, parks, recreation and fitness",5548
+"2057","2017/2018","British Columbia","Other health, parks, recreation and fitness",5659
