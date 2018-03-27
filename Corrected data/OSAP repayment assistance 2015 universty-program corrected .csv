@@ -1,0 +1,252 @@
+"","institutionName","programName","numOfBorrowers","receivedAssistance","AssistanceParticipationRate"
+"1","ALGOMA UNIVERSITY COLLEGE","Agricultural And Biological Sciences",8,3,37.5
+"2","ALGOMA UNIVERSITY COLLEGE","Business and Commerce",40,17,42.5
+"3","ALGOMA UNIVERSITY COLLEGE","Computer Science",10,4,40
+"4","ALGOMA UNIVERSITY COLLEGE","Fine And Applied Arts",NA,NA,NA
+"5","ALGOMA UNIVERSITY COLLEGE","Humanities",9,4,44.4
+"6","ALGOMA UNIVERSITY COLLEGE","Mathematics",NA,NA,NA
+"7","ALGOMA UNIVERSITY COLLEGE","Other Arts and Science",10,3,30
+"8","ALGOMA UNIVERSITY COLLEGE","Social Sciences",73,28,38.4
+"9","BROCK UNIVERSITY","Agricultural And Biological Sciences",15,5,33.3
+"10","BROCK UNIVERSITY","Business and Commerce",340,95,27.9
+"11","BROCK UNIVERSITY","Computer Science",27,6,22.2
+"12","BROCK UNIVERSITY","Education (Teacher Training)",299,86,28.8
+"13","BROCK UNIVERSITY","Fine And Applied Arts",72,21,29.2
+"14","BROCK UNIVERSITY","Humanities",223,70,31.4
+"15","BROCK UNIVERSITY","Kinesiology, Recreation And Physical Education",202,47,23.3
+"16","BROCK UNIVERSITY","Mathematics",17,5,29.4
+"17","BROCK UNIVERSITY","Nursing",47,5,10.6
+"18","BROCK UNIVERSITY","Other Arts and Science",319,106,33.2
+"19","BROCK UNIVERSITY","Other Health Professions",63,19,30.2
+"20","BROCK UNIVERSITY","Physical Sciences",88,27,30.7
+"21","BROCK UNIVERSITY","Social Sciences",379,123,32.5
+"22","CARLETON UNIVERSITY","Architecture And Landscape Architecture",40,11,27.5
+"23","CARLETON UNIVERSITY","Business and Commerce",184,56,30.4
+"24","CARLETON UNIVERSITY","Computer Science",95,23,24.2
+"25","CARLETON UNIVERSITY","Engineering",343,79,23
+"26","CARLETON UNIVERSITY","Fine And Applied Arts",28,3,10.7
+"27","CARLETON UNIVERSITY","Humanities",NA,NA,NA
+"28","CARLETON UNIVERSITY","Journalism",51,14,27.5
+"29","CARLETON UNIVERSITY","Mathematics",18,6,33.3
+"30","CARLETON UNIVERSITY","Other Arts and Science",1508,556,36.9
+"31","CARLETON UNIVERSITY","Social Sciences",151,42,27.8
+"32","CARLETON UNIVERSITY","Theology",NA,NA,NA
+"33","LAKEHEAD UNIVERSITY","Business and Commerce",64,21,32.8
+"34","LAKEHEAD UNIVERSITY","Education (Teacher Training)",307,116,37.8
+"35","LAKEHEAD UNIVERSITY","Engineering",223,36,16.1
+"36","LAKEHEAD UNIVERSITY","Fine And Applied Arts",5,0,0
+"37","LAKEHEAD UNIVERSITY","Forestry",30,5,16.7
+"38","LAKEHEAD UNIVERSITY","Humanities",296,101,34.1
+"39","LAKEHEAD UNIVERSITY","Kinesiology, Recreation And Physical Education",127,28,22
+"40","LAKEHEAD UNIVERSITY","Nursing",104,22,21.2
+"41","LAKEHEAD UNIVERSITY","Other Arts and Science",15,8,53.3
+"42","LAKEHEAD UNIVERSITY","Other Health Professions",12,4,33.3
+"43","LAKEHEAD UNIVERSITY","Social Sciences",90,34,37.8
+"44","LAURENTIAN UNIVERSITY","Business and Commerce",50,15,30
+"45","LAURENTIAN UNIVERSITY","Computer Science",NA,NA,NA
+"46","LAURENTIAN UNIVERSITY","Education (Teacher Training)",136,35,25.7
+"47","LAURENTIAN UNIVERSITY","Engineering",29,6,20.7
+"48","LAURENTIAN UNIVERSITY","Humanities",NA,NA,NA
+"49","LAURENTIAN UNIVERSITY","Kinesiology, Recreation And Physical Education",32,5,15.6
+"50","LAURENTIAN UNIVERSITY","Nursing",37,4,10.8
+"51","LAURENTIAN UNIVERSITY","Other Arts and Science",401,150,37.4
+"52","LAURENTIAN UNIVERSITY","Other Health Professions",13,8,61.5
+"53","LAURENTIAN UNIVERSITY","Social Sciences",51,21,41.2
+"54","MCMASTER UNIVERSITY","Agricultural And Biological Sciences",290,92,31.7
+"55","MCMASTER UNIVERSITY","Business and Commerce",343,96,28
+"56","MCMASTER UNIVERSITY","Computer Science",39,8,20.5
+"57","MCMASTER UNIVERSITY","Engineering",702,146,20.8
+"58","MCMASTER UNIVERSITY","Fine And Applied Arts",48,13,27.1
+"59","MCMASTER UNIVERSITY","Humanities",178,60,33.7
+"60","MCMASTER UNIVERSITY","Kinesiology, Recreation And Physical Education",25,2,8
+"61","MCMASTER UNIVERSITY","Mathematics",7,1,14.3
+"62","MCMASTER UNIVERSITY","Medicine",143,7,4.9
+"63","MCMASTER UNIVERSITY","Nursing",131,20,15.3
+"64","MCMASTER UNIVERSITY","Other Arts and Science",672,202,30.1
+"65","MCMASTER UNIVERSITY","Other Health Professions",215,44,20.5
+"66","MCMASTER UNIVERSITY","Physical Sciences",33,6,18.2
+"67","MCMASTER UNIVERSITY","Social Sciences",293,107,36.5
+"68","MCMASTER UNIVERSITY","Theology",5,3,60
+"69","MCMASTER UNIVERSITY","Therapy And Rehabilitation",90,17,18.9
+"70","NIPISSING UNIVERSITY","Business and Commerce",110,39,35.5
+"71","NIPISSING UNIVERSITY","Computer Science",NA,NA,NA
+"72","NIPISSING UNIVERSITY","Education (Teacher Training)",452,106,23.5
+"73","NIPISSING UNIVERSITY","Fine And Applied Arts",7,3,42.9
+"74","NIPISSING UNIVERSITY","Humanities",5,3,60
+"75","NIPISSING UNIVERSITY","Kinesiology, Recreation And Physical Education",33,2,6.1
+"76","NIPISSING UNIVERSITY","Mathematics",NA,NA,NA
+"77","NIPISSING UNIVERSITY","Nursing",67,11,16.4
+"78","NIPISSING UNIVERSITY","Other Arts and Science",213,77,36.2
+"79","NIPISSING UNIVERSITY","Other Education",8,3,37.5
+"80","NIPISSING UNIVERSITY","Social Sciences",29,12,41.4
+"81","NORTHERN ONTARIO SCHOOL OF MEDICINE","Medicine",55,2,3.6
+"82","ONTARIO COLLEGE OF ART AND DESIGN UNIVERSITY","Fine And Applied Arts",624,271,43.4
+"83","QUEEN'S UNIVERSITY","Business and Commerce",170,25,14.7
+"84","QUEEN'S UNIVERSITY","Computer Science",18,4,22.2
+"85","QUEEN'S UNIVERSITY","Education (Teacher Training)",302,66,21.9
+"86","QUEEN'S UNIVERSITY","Engineering",238,36,15.1
+"87","QUEEN'S UNIVERSITY","Fine And Applied Arts",28,7,25
+"88","QUEEN'S UNIVERSITY","Humanities",21,8,38.1
+"89","QUEEN'S UNIVERSITY","Kinesiology, Recreation And Physical Education",18,4,22.2
+"90","QUEEN'S UNIVERSITY","Law",90,14,15.6
+"91","QUEEN'S UNIVERSITY","Medicine",63,1,1.6
+"92","QUEEN'S UNIVERSITY","Nursing",54,5,9.3
+"93","QUEEN'S UNIVERSITY","Other Arts and Science",689,173,25.1
+"94","QUEEN'S UNIVERSITY","Other Health Professions",11,1,9.1
+"95","QUEEN'S UNIVERSITY","Social Sciences",42,7,16.7
+"96","QUEEN'S UNIVERSITY","Theology",NA,NA,NA
+"97","QUEEN'S UNIVERSITY","Therapy And Rehabilitation",76,9,11.8
+"98","RYERSON UNIVERSITY","Agricultural And Biological Sciences",99,37,37.4
+"99","RYERSON UNIVERSITY","Architecture And Landscape Architecture",73,26,35.6
+"100","RYERSON UNIVERSITY","Business and Commerce",1135,376,33.1
+"101","RYERSON UNIVERSITY","Computer Science",94,27,28.7
+"102","RYERSON UNIVERSITY","Education (Teacher Training)",83,26,31.3
+"103","RYERSON UNIVERSITY","Engineering",689,235,34.1
+"104","RYERSON UNIVERSITY","Fine And Applied Arts",330,105,31.8
+"105","RYERSON UNIVERSITY","Food Science And Nutrition",53,22,41.5
+"106","RYERSON UNIVERSITY","Humanities",162,56,34.6
+"107","RYERSON UNIVERSITY","Journalism",80,24,30
+"108","RYERSON UNIVERSITY","Mathematics",17,5,29.4
+"109","RYERSON UNIVERSITY","Nursing",334,139,41.6
+"110","RYERSON UNIVERSITY","Other Arts and Science",33,16,48.5
+"111","RYERSON UNIVERSITY","Other Education",5,2,40
+"112","RYERSON UNIVERSITY","Other Health Professions",142,56,39.4
+"113","RYERSON UNIVERSITY","Physical Sciences",29,11,37.9
+"114","RYERSON UNIVERSITY","Social Sciences",767,279,36.4
+"115","TRENT UNIVERSITY","Agricultural And Biological Sciences",17,7,41.2
+"116","TRENT UNIVERSITY","Business and Commerce",60,20,33.3
+"117","TRENT UNIVERSITY","Education (Teacher Training)",160,49,30.6
+"118","TRENT UNIVERSITY","Nursing",127,41,32.3
+"119","TRENT UNIVERSITY","Other Arts and Science",814,339,41.6
+"120","TRENT UNIVERSITY","Social Sciences",5,2,40
+"121","UNIVERSITY OF GUELPH","Agricultural And Biological Sciences",475,106,22.3
+"122","UNIVERSITY OF GUELPH","Architecture And Landscape Architecture",29,8,27.6
+"123","UNIVERSITY OF GUELPH","Business and Commerce",452,128,28.3
+"124","UNIVERSITY OF GUELPH","Computer Science",57,11,19.3
+"125","UNIVERSITY OF GUELPH","Engineering",122,18,14.8
+"126","UNIVERSITY OF GUELPH","Fine And Applied Arts",90,30,33.3
+"127","UNIVERSITY OF GUELPH","Food Science And Nutrition",343,126,36.7
+"128","UNIVERSITY OF GUELPH","Humanities",240,76,31.7
+"129","UNIVERSITY OF GUELPH","Kinesiology, Recreation And Physical Education",116,34,29.3
+"130","UNIVERSITY OF GUELPH","Mathematics",31,12,38.7
+"131","UNIVERSITY OF GUELPH","Not Applicable/ No Code",6,1,16.7
+"132","UNIVERSITY OF GUELPH","Not Reported",31,7,22.6
+"133","UNIVERSITY OF GUELPH","Other Arts and Science",130,42,32.3
+"134","UNIVERSITY OF GUELPH","Other Health Professions",12,3,25
+"135","UNIVERSITY OF GUELPH","Physical Sciences",36,8,22.2
+"136","UNIVERSITY OF GUELPH","Social Sciences",610,198,32.5
+"137","UNIVERSITY OF GUELPH","Veterinary Medicine",97,11,11.3
+"138","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Agricultural And Biological Sciences",60,21,35
+"139","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Business and Commerce",205,88,42.9
+"140","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Computer Science",99,15,15.2
+"141","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Education (Teacher Training)",117,37,31.6
+"142","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Engineering",306,96,31.4
+"143","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Humanities",38,17,44.7
+"144","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Mathematics",NA,NA,NA
+"145","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Nursing",116,34,29.3
+"146","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Other Arts and Science",NA,NA,NA
+"147","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Other Health Professions",140,50,35.7
+"148","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Physical Sciences",28,10,35.7
+"149","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Social Sciences",226,90,39.8
+"150","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Agricultural And Biological Sciences",24,9,37.5
+"151","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Business and Commerce",317,90,28.4
+"152","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Computer Science",30,9,30
+"153","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Education (Teacher Training)",400,99,24.8
+"154","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Engineering",238,76,31.9
+"155","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Fine And Applied Arts",54,21,38.9
+"156","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Food Science And Nutrition",5,1,20
+"157","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Humanities",18,11,61.1
+"158","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Kinesiology, Recreation And Physical Education",103,27,26.2
+"159","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Law",214,62,29
+"160","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Medicine",99,4,4
+"161","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Not Applicable/ No Code",16,1,6.3
+"162","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Nursing",181,42,23.2
+"163","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Other Arts and Science",863,314,36.4
+"164","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Other Health Professions",108,35,32.4
+"165","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Physical Sciences",11,4,36.4
+"166","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Social Sciences",863,307,35.6
+"167","UNIVERSITY OF OTTAWA/UNIVERSITE D'OTTAWA","Therapy And Rehabilitation",13,0,0
+"168","UNIVERSITY OF TORONTO","Architecture And Landscape Architecture",86,25,29.1
+"169","UNIVERSITY OF TORONTO","Business and Commerce",613,171,27.9
+"170","UNIVERSITY OF TORONTO","Computer Science",228,58,25.4
+"171","UNIVERSITY OF TORONTO","Dentistry",70,1,1.4
+"172","UNIVERSITY OF TORONTO","Education (Teacher Training)",478,137,28.7
+"173","UNIVERSITY OF TORONTO","Engineering",238,52,21.8
+"174","UNIVERSITY OF TORONTO","Fine And Applied Arts",63,19,30.2
+"175","UNIVERSITY OF TORONTO","Forestry",12,4,33.3
+"176","UNIVERSITY OF TORONTO","Humanities",113,41,36.3
+"177","UNIVERSITY OF TORONTO","Kinesiology, Recreation And Physical Education",68,18,26.5
+"178","UNIVERSITY OF TORONTO","Law",109,13,11.9
+"179","UNIVERSITY OF TORONTO","Medicine",165,9,5.5
+"180","UNIVERSITY OF TORONTO","Nursing",108,19,17.6
+"181","UNIVERSITY OF TORONTO","Other Arts and Science",5084,1737,34.2
+"182","UNIVERSITY OF TORONTO","Other Education",174,63,36.2
+"183","UNIVERSITY OF TORONTO","Other Health Professions",120,34,28.3
+"184","UNIVERSITY OF TORONTO","Pharmacy",202,32,15.8
+"185","UNIVERSITY OF TORONTO","Social Sciences",275,62,22.5
+"186","UNIVERSITY OF TORONTO","Theology",30,14,46.7
+"187","UNIVERSITY OF TORONTO","Therapy And Rehabilitation",118,13,11
+"188","UNIVERSITY OF WATERLOO","Architecture And Landscape Architecture",67,18,26.9
+"189","UNIVERSITY OF WATERLOO","Business and Commerce",337,37,11
+"190","UNIVERSITY OF WATERLOO","Computer Science",189,23,12.2
+"191","UNIVERSITY OF WATERLOO","Engineering",661,82,12.4
+"192","UNIVERSITY OF WATERLOO","Kinesiology, Recreation And Physical Education",180,31,17.2
+"193","UNIVERSITY OF WATERLOO","Mathematics",220,54,24.5
+"194","UNIVERSITY OF WATERLOO","Optometry",44,4,9.1
+"195","UNIVERSITY OF WATERLOO","Other Arts and Science",1368,432,31.6
+"196","UNIVERSITY OF WATERLOO","Other Health Professions",11,3,27.3
+"197","UNIVERSITY OF WATERLOO","Pharmacy",97,7,7.2
+"198","UNIVERSITY OF WATERLOO","Social Sciences",68,18,26.5
+"199","UNIVERSITY OF WINDSOR","Agricultural And Biological Sciences",61,18,29.5
+"200","UNIVERSITY OF WINDSOR","Business and Commerce",208,83,39.9
+"201","UNIVERSITY OF WINDSOR","Computer Science",40,12,30
+"202","UNIVERSITY OF WINDSOR","Education (Teacher Training)",250,91,36.4
+"203","UNIVERSITY OF WINDSOR","Engineering",125,32,25.6
+"204","UNIVERSITY OF WINDSOR","Fine And Applied Arts",73,33,45.2
+"205","UNIVERSITY OF WINDSOR","Humanities",144,50,34.7
+"206","UNIVERSITY OF WINDSOR","Kinesiology, Recreation And Physical Education",76,29,38.2
+"207","UNIVERSITY OF WINDSOR","Law",125,28,22.4
+"208","UNIVERSITY OF WINDSOR","Mathematics",10,4,40
+"209","UNIVERSITY OF WINDSOR","Nursing",109,36,33
+"210","UNIVERSITY OF WINDSOR","Other Arts and Science",214,91,42.5
+"211","UNIVERSITY OF WINDSOR","Physical Sciences",17,2,11.8
+"212","UNIVERSITY OF WINDSOR","Social Sciences",438,214,48.9
+"213","WESTERN UNIVERSITY","Business and Commerce",254,32,12.6
+"214","WESTERN UNIVERSITY","Dentistry",55,3,5.5
+"215","WESTERN UNIVERSITY","Education (Teacher Training)",349,108,30.9
+"216","WESTERN UNIVERSITY","Engineering",205,39,19
+"217","WESTERN UNIVERSITY","Fine And Applied Arts",82,31,37.8
+"218","WESTERN UNIVERSITY","Food Science And Nutrition",64,31,48.4
+"219","WESTERN UNIVERSITY","Humanities",129,38,29.5
+"220","WESTERN UNIVERSITY","Journalism",12,7,58.3
+"221","WESTERN UNIVERSITY","Kinesiology, Recreation And Physical Education",127,21,16.5
+"222","WESTERN UNIVERSITY","Law",106,25,23.6
+"223","WESTERN UNIVERSITY","Medicine",111,5,4.5
+"224","WESTERN UNIVERSITY","Nursing",161,29,18
+"225","WESTERN UNIVERSITY","Other Arts and Science",1721,536,31.1
+"226","WESTERN UNIVERSITY","Other Education",17,6,35.3
+"227","WESTERN UNIVERSITY","Other Health Professions",94,34,36.2
+"228","WESTERN UNIVERSITY","Social Sciences",253,84,33.2
+"229","WESTERN UNIVERSITY","Theology",NA,NA,NA
+"230","WESTERN UNIVERSITY","Therapy And Rehabilitation",103,17,16.5
+"231","WILFRID LAURIER UNIVERSITY","Business and Commerce",409,74,18.1
+"232","WILFRID LAURIER UNIVERSITY","Education (Teacher Training)",52,14,26.9
+"233","WILFRID LAURIER UNIVERSITY","Fine And Applied Arts",34,12,35.3
+"234","WILFRID LAURIER UNIVERSITY","Journalism",20,8,40
+"235","WILFRID LAURIER UNIVERSITY","Other Arts and Science",1007,291,28.9
+"236","WILFRID LAURIER UNIVERSITY","Other Health Professions",33,8,24.2
+"237","WILFRID LAURIER UNIVERSITY","Social Sciences",312,83,26.6
+"238","WILFRID LAURIER UNIVERSITY","Theology",11,4,36.4
+"239","YORK UNIVERSITY","Agricultural And Biological Sciences",8,2,25
+"240","YORK UNIVERSITY","Business and Commerce",867,280,32.3
+"241","YORK UNIVERSITY","Computer Science",146,45,30.8
+"242","YORK UNIVERSITY","Education (Teacher Training)",339,127,37.5
+"243","YORK UNIVERSITY","Engineering",29,6,20.7
+"244","YORK UNIVERSITY","Fine And Applied Arts",266,98,36.8
+"245","YORK UNIVERSITY","Humanities",NA,NA,NA
+"246","YORK UNIVERSITY","Kinesiology, Recreation And Physical Education",274,104,38
+"247","YORK UNIVERSITY","Law",156,34,21.8
+"248","YORK UNIVERSITY","Not Applicable/ No Code",9,4,44.4
+"249","YORK UNIVERSITY","Nursing",314,137,43.6
+"250","YORK UNIVERSITY","Other Arts and Science",4133,1790,43.3
+"251","YORK UNIVERSITY","Social Sciences",436,189,43.3
