@@ -1,5 +1,5 @@
-# Load OSAP Data
-                                                                                                       Value = col_number(), Vector = col_skip()))
+library(readr)
+# Load OSAP Data                                                                                                       Value = col_number(), Vector = col_skip()))
 University_OSAP <- data.frame(read_csv("Row data/OSAP Repayment Assistance Plan usage row data/University-Table 1.csv", col_types = cols(X5 = col_skip())))
 
 University_program_OSAP <- data.frame(read_csv("Row data/OSAP Repayment Assistance Plan usage row data/University Program-Table 1.csv", 

@@ -2,9 +2,7 @@
 "1","ALGOMA UNIVERSITY COLLEGE","Agricultural And Biological Sciences",8,3,37.5
 "2","ALGOMA UNIVERSITY COLLEGE","Business and Commerce",40,17,42.5
 "3","ALGOMA UNIVERSITY COLLEGE","Computer Science",10,4,40
-"4","ALGOMA UNIVERSITY COLLEGE","Fine And Applied Arts",NA,NA,NA
 "5","ALGOMA UNIVERSITY COLLEGE","Humanities",9,4,44.4
-"6","ALGOMA UNIVERSITY COLLEGE","Mathematics",NA,NA,NA
 "7","ALGOMA UNIVERSITY COLLEGE","Other Arts and Science",10,3,30
 "8","ALGOMA UNIVERSITY COLLEGE","Social Sciences",73,28,38.4
 "9","BROCK UNIVERSITY","Agricultural And Biological Sciences",15,5,33.3
@@ -25,12 +23,10 @@
 "24","CARLETON UNIVERSITY","Computer Science",95,23,24.2
 "25","CARLETON UNIVERSITY","Engineering",343,79,23
 "26","CARLETON UNIVERSITY","Fine And Applied Arts",28,3,10.7
-"27","CARLETON UNIVERSITY","Humanities",NA,NA,NA
 "28","CARLETON UNIVERSITY","Journalism",51,14,27.5
 "29","CARLETON UNIVERSITY","Mathematics",18,6,33.3
 "30","CARLETON UNIVERSITY","Other Arts and Science",1508,556,36.9
 "31","CARLETON UNIVERSITY","Social Sciences",151,42,27.8
-"32","CARLETON UNIVERSITY","Theology",NA,NA,NA
 "33","LAKEHEAD UNIVERSITY","Business and Commerce",64,21,32.8
 "34","LAKEHEAD UNIVERSITY","Education (Teacher Training)",307,116,37.8
 "35","LAKEHEAD UNIVERSITY","Engineering",223,36,16.1
@@ -43,10 +39,8 @@
 "42","LAKEHEAD UNIVERSITY","Other Health Professions",12,4,33.3
 "43","LAKEHEAD UNIVERSITY","Social Sciences",90,34,37.8
 "44","LAURENTIAN UNIVERSITY","Business and Commerce",50,15,30
-"45","LAURENTIAN UNIVERSITY","Computer Science",NA,NA,NA
 "46","LAURENTIAN UNIVERSITY","Education (Teacher Training)",136,35,25.7
 "47","LAURENTIAN UNIVERSITY","Engineering",29,6,20.7
-"48","LAURENTIAN UNIVERSITY","Humanities",NA,NA,NA
 "49","LAURENTIAN UNIVERSITY","Kinesiology, Recreation And Physical Education",32,5,15.6
 "50","LAURENTIAN UNIVERSITY","Nursing",37,4,10.8
 "51","LAURENTIAN UNIVERSITY","Other Arts and Science",401,150,37.4
@@ -69,12 +63,10 @@
 "68","MCMASTER UNIVERSITY","Theology",5,3,60
 "69","MCMASTER UNIVERSITY","Therapy And Rehabilitation",90,17,18.9
 "70","NIPISSING UNIVERSITY","Business and Commerce",110,39,35.5
-"71","NIPISSING UNIVERSITY","Computer Science",NA,NA,NA
 "72","NIPISSING UNIVERSITY","Education (Teacher Training)",452,106,23.5
 "73","NIPISSING UNIVERSITY","Fine And Applied Arts",7,3,42.9
 "74","NIPISSING UNIVERSITY","Humanities",5,3,60
 "75","NIPISSING UNIVERSITY","Kinesiology, Recreation And Physical Education",33,2,6.1
-"76","NIPISSING UNIVERSITY","Mathematics",NA,NA,NA
 "77","NIPISSING UNIVERSITY","Nursing",67,11,16.4
 "78","NIPISSING UNIVERSITY","Other Arts and Science",213,77,36.2
 "79","NIPISSING UNIVERSITY","Other Education",8,3,37.5
@@ -94,7 +86,6 @@
 "93","QUEEN'S UNIVERSITY","Other Arts and Science",689,173,25.1
 "94","QUEEN'S UNIVERSITY","Other Health Professions",11,1,9.1
 "95","QUEEN'S UNIVERSITY","Social Sciences",42,7,16.7
-"96","QUEEN'S UNIVERSITY","Theology",NA,NA,NA
 "97","QUEEN'S UNIVERSITY","Therapy And Rehabilitation",76,9,11.8
 "98","RYERSON UNIVERSITY","Agricultural And Biological Sciences",99,37,37.4
 "99","RYERSON UNIVERSITY","Architecture And Landscape Architecture",73,26,35.6
@@ -142,9 +133,7 @@
 "141","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Education (Teacher Training)",117,37,31.6
 "142","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Engineering",306,96,31.4
 "143","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Humanities",38,17,44.7
-"144","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Mathematics",NA,NA,NA
 "145","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Nursing",116,34,29.3
-"146","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Other Arts and Science",NA,NA,NA
 "147","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Other Health Professions",140,50,35.7
 "148","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Physical Sciences",28,10,35.7
 "149","UNIVERSITY OF ONTARIO INSTITUTE OF TECHNOLOGY","Social Sciences",226,90,39.8
@@ -227,7 +216,6 @@
 "226","WESTERN UNIVERSITY","Other Education",17,6,35.3
 "227","WESTERN UNIVERSITY","Other Health Professions",94,34,36.2
 "228","WESTERN UNIVERSITY","Social Sciences",253,84,33.2
-"229","WESTERN UNIVERSITY","Theology",NA,NA,NA
 "230","WESTERN UNIVERSITY","Therapy And Rehabilitation",103,17,16.5
 "231","WILFRID LAURIER UNIVERSITY","Business and Commerce",409,74,18.1
 "232","WILFRID LAURIER UNIVERSITY","Education (Teacher Training)",52,14,26.9
@@ -243,7 +231,6 @@
 "242","YORK UNIVERSITY","Education (Teacher Training)",339,127,37.5
 "243","YORK UNIVERSITY","Engineering",29,6,20.7
 "244","YORK UNIVERSITY","Fine And Applied Arts",266,98,36.8
-"245","YORK UNIVERSITY","Humanities",NA,NA,NA
 "246","YORK UNIVERSITY","Kinesiology, Recreation And Physical Education",274,104,38
 "247","YORK UNIVERSITY","Law",156,34,21.8
 "248","YORK UNIVERSITY","Not Applicable/ No Code",9,4,44.4
